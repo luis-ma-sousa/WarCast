@@ -1,0 +1,3183 @@
+participant_id,battle_id,country,troops,deaths,result
+1,1,United States,100000,2000,winner
+2,1,Germany,13000,5000,loser
+3,2,First French Empire,55000,1000,winner
+4,2,Kingdom of Bavaria,55000,1000,winner
+5,2,Wurttemberg,55000,1000,winner
+6,2,Austrian Empire,42000,7200,loser
+7,3,France,,2000,loser
+8,3,United Kingdom,,2000,loser
+9,3,Germany,,1000,winner
+10,4,France,9000,220,winner
+11,4,Ottoman Empire,20000,2000,loser
+12,4,Great Britain,20000,2000,loser
+13,5,United Kingdom,1400,76,winner
+14,5,India,1400,76,winner
+15,5,Mahdist State,14000,1100,loser
+16,6,Kingdom of Wessex,,,unknown
+17,6,Kingdom of Denmark,,,unknown
+18,7,Carthage,60000,6000,unknown
+19,7,Akragas,35000,,unknown
+20,7,Syracuse,35000,,unknown
+21,8,Kingdom of England,,19000,unknown
+22,8,Kingdom of France,,19000,unknown
+23,8,Kingdom of Jerusalem,,19000,unknown
+24,8,Knights Templar,,19000,unknown
+25,8,Order Of St Lazarus,,19000,unknown
+26,8,Knights Hospitaller,,19000,unknown
+27,8,Republic of Pisa,,19000,unknown
+28,8,Kingdom of Sicily,,19000,unknown
+29,8,Papal States,,19000,unknown
+30,8,Holy Roman Empire,,19000,unknown
+31,8,Duchy of Bohemia,,19000,unknown
+32,8,Armenian Kingdom of Cilicia,,19000,unknown
+33,8,Kingdom of Denmark,,19000,unknown
+34,8,Republic of Genoa,,19000,unknown
+35,8,Ayyubids,50000,,unknown
+36,9,Mamluk Sultanate,,,unknown
+37,9,Ayyubid remnant emirate of Hama,,,unknown
+38,9,Kingdom of Jerusalem,15000,,unknown
+39,9,Knights Templar,15000,,unknown
+40,9,Knights Hospitaller,15000,,unknown
+41,9,Teutonic Order,15000,,unknown
+42,9,Order of St. Thomas,15000,,unknown
+43,9,Order of St. Lazarus,15000,,unknown
+44,10,Ottoman Empire,5000,2000,unknown
+45,10,Great Britain,5000,2000,unknown
+46,10,French Republic,12500,2300,unknown
+47,11,United Kingdom,1,3506,winner
+48,11,British Raj,1,3506,winner
+49,11,Japan,1,3106,loser
+50,11,Azad Hind,1,3106,loser
+51,12,Umayyad Caliphate,20000,13200,unknown
+52,12,Byzantine Empire,,,unknown
+53,13,Octavian 's forces,16000,2500,unknown
+54,13,Antony 's forces,70000,5000,unknown
+55,13,Ptolemaic Egypt,70000,5000,unknown
+56,14,Byzantine Empire,18000,1000,unknown
+57,14,Vandal Kingdom,20000,3500,unknown
+58,15,Ethiopia,86500,7000,winner
+59,15,Italy,16144,6000,loser
+60,16,Royalists,4000,200,unknown
+61,16,Parliamentarians,1500,500,unknown
+62,17,Delian League led by Athens,,,unknown
+63,17,Argos,,,unknown
+64,17,Peloponnesian League led by Sparta,,,unknown
+65,17,Thebes,,,unknown
+66,19,Kingdom of England,8100,600,unknown
+67,19,Kingdom of France,15000,6000,unknown
+68,20,Kingdom of France,30000,500,winner
+69,20,Republic of Venice,15000,10000,loser
+70,21,First Philippine Republic,500,38,winner
+71,21,United States,80,2,loser
+72,22,Swedish Empire,2400,361,unknown
+73,22,Tsardom of Russia,3900,125,unknown
+74,22,Navy,3900,125,unknown
+75,23,Mamluk Sultanate,17500,,unknown
+76,23,Ayyubid emirs of Kerak and Hamah,17500,,unknown
+77,23,Ilkhanate,15000,,unknown
+78,23,Cilician Armenia,15000,,unknown
+79,23,Kingdom of Georgia,15000,,unknown
+80,24,France,,13541,tied
+81,24,United Kingdom,,13541,tied
+82,24,German Empire,,,tied
+83,25,France,53,187000,tied
+84,25,Russia,53,187000,tied
+85,25,Germany,,163000,tied
+86,26,France,,127000,unknown
+87,26,United Kingdom,,127000,unknown
+88,26,United States,,127000,unknown
+89,26,Italy,,127000,unknown
+90,26,German Empire,4000,130000,unknown
+91,27,Byzantine Empire,20050,50000,unknown
+92,27,Rashidun Caliphate,10250,5000,unknown
+93,28,Rashidun Caliphate,11500,1200,unknown
+94,28,Banu Hanifa and Musaylima's followers,75000,15500,unknown
+95,29,Phocaeans,60,,unknown
+96,29,Carthage,120,,unknown
+97,29,Etruscans,120,,unknown
+98,30,North Carolina,1000,27,unknown
+99,30,Regulators,2000,100,unknown
+100,31,Turkey,10,59,winner
+101,31,Syrian National Army,10,59,winner
+102,31,Support:,10,59,winner
+103,31,Russia,10,59,winner
+104,31,United States,10,59,winner
+105,31,Islamic State,4000,1348,loser
+106,32,United Kingdom,4,1750,winner
+107,32,New Zealand,4,1750,winner
+108,32,Germany,6,2900,loser
+109,32,Italy,6,2900,loser
+110,33,Mexico,2050,60,unknown
+111,33,Republic of Texas,222,257,unknown
+112,34,French Republic,88000,1500,winner
+113,34,Habsburg monarchy,77000,3000,loser
+114,36,Spanish Republic,8750,,unknown
+115,36,Nationalist Spain,,,unknown
+116,37,Roman Republic,10,12800,unknown
+117,37,Gallic confederation,399000,250000,unknown
+118,38,United Kingdom,13100,243,winner
+119,38,France,13000,3350,loser
+120,39,Italy,96000,10000,tied
+121,39,Germany,96000,10000,tied
+122,39,United Kingdom,150000,13250,tied
+123,39,India,150000,13250,tied
+124,39,New Zealand,150000,13250,tied
+125,39,Australia,150000,13250,tied
+126,39,South Africa,150000,13250,tied
+127,40,British Empire,740,13560,winner
+128,40,United Kingdom,740,13560,winner
+129,40,India,740,13560,winner
+130,40,Australia,740,13560,winner
+131,40,New Zealand,740,13560,winner
+132,40,South Africa,740,13560,winner
+133,40,Libyan Arab Force Free France Greece Air support: United States,740,13560,winner
+134,40,Italy,835,9000,loser
+135,40,Germany,835,9000,loser
+136,41,Lordship of Milan,10000,,unknown
+137,41,Republic of Florence,10500,6000,unknown
+138,42,Spanish Republic,50000,21000,unknown
+139,42,Nationalist Spain,100000,,unknown
+140,42,Italy,100000,,unknown
+141,42,Germany,100000,,unknown
+142,43,Kingdom of Portugal House of Braganza,30000,500,unknown
+143,43,Coimbra Rebels,6000,4000,unknown
+144,44,Marinid Dynasty,,,unknown
+145,44,Emirate of Granada,,,unknown
+146,44,Crown of Castile,,,unknown
+147,44,Republic of Genoa,,,unknown
+148,44,Kingdom of Aragon,,,unknown
+149,44,Kingdom of Portugal,,,unknown
+150,44,Kingdom of Navarre,,,unknown
+151,44,European crusaders,,,unknown
+152,45,Kingdom of Portugal,6600,1000,unknown
+153,45,Supported by:,6600,1000,unknown
+154,45,Kingdom of England,6600,1000,unknown
+155,45,Crown of Castile,31000,4500,unknown
+156,45,Supported by:,31000,4500,unknown
+157,45,Kingdom of France,31000,4500,unknown
+158,45,Crown of Aragon,31000,4500,unknown
+159,45,Genoese mercenaries,31000,4500,unknown
+160,46,Britain,57250,4103,winner
+161,46,France,57250,4103,winner
+162,46,Ottoman Empire,57250,4103,winner
+163,46,Russia,37500,5000,loser
+164,47,Spain,21000,2000,unknown
+165,47,France,21000,2000,unknown
+166,47,England,16000,7000,unknown
+167,47,Portugal,16000,7000,unknown
+168,47,Dutch Republic,16000,7000,unknown
+169,49,France,28797,2400,winner
+170,49,Duchy of Warsaw,28797,2400,winner
+171,49,Spain,28107,3500,loser
+172,50,Ottoman Empire,14000,5000,unknown
+173,50,Emirate of Diriyah,18000,600,unknown
+174,51,Indonesia,10000,2000,tied
+175,51,United Kingdom,,100,tied
+176,51,British Raj Supported by: Netherlands,,100,tied
+177,52,Republican France,34000,2000,unknown
+178,52,Habsburg monarchy,40000,400,unknown
+179,53,North German Confederation,43000,1292,loser
+180,53,Prussia,43000,1292,loser
+181,53,French Republic,25000,1383,winner
+182,54,British Empire,,,winner
+183,54,United Kingdom,,,winner
+184,54,Australia,,,winner
+185,54,Canada France United States,,,winner
+186,54,German Empire,,45000,loser
+187,55,Athens,2000,600,loser
+188,55,Sparta,2500,,winner
+189,56,France,10000,1000,tied
+190,56,Habsburg Empire,7900,300,tied
+191,56,Russia,7900,300,tied
+192,57,United States,10000,264,winner
+193,57,Japan,1400,1350,loser
+194,58,Timurid Empire,140000,27500,unknown
+195,58,Aq Qoyunlu,140000,27500,unknown
+196,58,Germiyanids,140000,27500,unknown
+197,58,Ottoman Sultanate,102500,45000,unknown
+198,58,Principality of Kastrioti,102500,45000,unknown
+199,58,Moravian Serbia,102500,45000,unknown
+200,58,District of Branković,102500,45000,unknown
+201,58,Anatolian beyliks and Black Tatars,102500,45000,unknown
+202,59,United States,53632,2108,unknown
+203,59,Confederate States,30646,1567,unknown
+204,60,Macrinus,,,loser
+205,60,Elagabalus,,,winner
+206,61,Crusaders,0,,unknown
+207,61,Byzantine Empire,0,,unknown
+208,61,Seljuk Empire,37500,,unknown
+209,61,Emirate of Antioch,37500,,unknown
+210,61,Emirate of Damascus,37500,,unknown
+211,61,Emirate of Homs,37500,,unknown
+212,61,Sultanate of Aleppo,37500,,unknown
+213,61,Emirate of Mosul,37500,,unknown
+214,61,Various other Arab or Turkish Emirates,37500,,unknown
+215,62,Mamluk Sultanate,15000,,unknown
+216,62,Principality of Antioch,7500,17000,unknown
+217,63,Estates General,80000,8000,unknown
+218,63,Spain,40000,1800,unknown
+219,64,France,55000,608,winner
+220,64,Supported by: Belgium,55000,608,winner
+221,64,United Netherlands,4500,90,loser
+222,65,German Empire,66000,,loser
+223,65,Austria-Hungary,66000,,loser
+224,65,Belgium,87300,57,winner
+225,65,United Kingdom,87300,57,winner
+226,66,Belgium,13974,222443,loser
+227,66,France,13974,222443,loser
+228,66,United Kingdom,13974,222443,loser
+229,66,Netherlands,13974,222443,loser
+230,66,Luxembourg,13974,222443,loser
+231,66,Germany,7378,,winner
+232,67,Byzantine Empire,32500,,unknown
+233,67,Abbasid Caliphate,25000,,unknown
+234,68,Nana Sahib 's forces,,,unknown
+235,68,Rebel Company sepoys,,,unknown
+236,68,British East India Company,,,unknown
+237,69,Allies :,2260,9,winner
+238,69,Samoa,2260,9,winner
+239,69,United Kingdom,2260,9,winner
+240,69,United States,2260,9,winner
+241,69,Mataafans,4000,27,loser
+242,69,Supported by:,4000,27,loser
+243,69,Germany,4000,27,loser
+244,70,Patriots,3000,800,unknown
+245,70,Royalists,5000,1000,unknown
+246,71,Duchy of Milan,16000,900,unknown
+247,71,Swiss Confederates,8000,400,unknown
+248,71,Lucerne,8000,400,unknown
+249,71,Uri,8000,400,unknown
+250,71,Zug,8000,400,unknown
+251,71,Unterwalden,8000,400,unknown
+252,72,French Republic,20000,3500,winner
+253,72,Habsburg monarchy,24000,2200,loser
+254,73,Austria,90950,3500,unknown
+255,73,Bavaria,90950,3500,unknown
+256,73,Russia,90950,3500,unknown
+257,73,Wurttemberg,90950,3500,unknown
+258,73,Prussia,90950,3500,unknown
+259,73,France,29000,3600,unknown
+260,74,France,,42557,loser
+261,74,Germany,4,14940,winner
+262,75,Kingdom of Great Britain,1700,100,winner
+263,75,Kingdom of Ireland,1700,100,winner
+264,75,United Irishmen,10000,500,loser
+265,76,United Kingdom,1,1984,loser
+266,76,Poland,1,1984,loser
+267,76,Germany,,1300,winner
+268,77,France,22500,1000,winner
+269,77,Spain,25000,2000,loser
+270,78,United Kingdom and Empire :,,158000,unknown
+271,78,Canada,,158000,unknown
+272,78,Australia,,158000,unknown
+273,78,Newfoundland,,158000,unknown
+274,78,New Zealand,,158000,unknown
+275,78,South Africa,,158000,unknown
+276,78,German Empire,,125000,unknown
+277,79,Angevin Empire,10000,,unknown
+278,79,Kingdom of France,10000,,unknown
+279,79,Kingdom of Jerusalem Knights Hospitaller,10000,,unknown
+280,79,Knights Templar,10000,,unknown
+281,79,Contingents from other states,10000,,unknown
+282,79,Ayyubid Sultanate,25000,,unknown
+283,80,Greek city-states,,100,unknown
+284,80,Achaemenid Empire,,400,unknown
+285,81,France,10,48230,unknown
+286,81,United Kingdom,10,48230,unknown
+287,81,German Empire,6,51100,unknown
+288,82,India,126,,tied
+289,82,Pakistan,168,97,tied
+290,83,Crusaders,10200,,unknown
+291,83,Fatimid Caliphate,20000,12700,unknown
+292,84,West Saxons,,,unknown
+293,84,Vikings,,,unknown
+294,85,United States,6000,100,winner
+295,85,Great Britain,5000,365,loser
+296,86,United States,150,,unknown
+297,86,CSA,700,,unknown
+298,87,United States,416,3,unknown
+299,87,Missouri,2000,31,unknown
+300,88,United States,15000,549,winner
+301,88,Canada,15000,549,winner
+302,88,Japan,2600,2351,loser
+303,89,French Empire,40000,12600,winner
+304,89,Prussia,55000,41000,loser
+305,89,Saxony,55000,41000,loser
+306,90,French Empire,70000,,winner
+307,90,Kingdom of Italy,70000,,winner
+308,90,Russian Empire,81000,,loser
+309,90,Austrian Empire,81000,,loser
+310,91,United Kingdom,,,winner
+311,91,Canada,,,winner
+312,91,France,,,winner
+313,91,United States,,,winner
+314,91,Brazil,,,winner
+315,91,Other Allied navies,,,winner
+316,91,Germany,,,loser
+317,92,Kingdom of England,1200,,unknown
+318,92,Kingdom of France,7000,,unknown
+319,93,Dutch Republic,90000,4500,unknown
+320,93,Great Britain,90000,4500,unknown
+321,93,France,90000,11500,unknown
+322,94,Patriots,7140,979,winner
+323,94,Peru,7140,979,winner
+324,94,Gran Colombia,7140,979,winner
+325,94,Royalists : Spanish Empire,8108,2500,loser
+326,94,Viceroyalty of Peru,8108,2500,loser
+327,94,Governorate of Chiloé,8108,2500,loser
+328,95,Byzantine Empire,20000,,unknown
+329,95,Mirdasid Emirate of Aleppo,700,,unknown
+330,96,Kingdom of Jerusalem,2000,,unknown
+331,96,Armenian Kingdom of Cilicia,2000,,unknown
+332,96,Principality of Antioch,2000,,unknown
+333,96,County of Edessa,2000,,unknown
+334,96,County of Tripoli,2000,,unknown
+335,96,Seljuk Turks,15000,5015,unknown
+336,96,Artuqids,15000,5015,unknown
+337,96,Burid dynasty,15000,5015,unknown
+338,97,Spanish Republic,2000,750,unknown
+339,97,Nationalist rebels,3000,44,unknown
+340,98,Netherlands,,,loser
+341,98,United States,,,loser
+342,98,United Kingdom,,,loser
+343,98,Japan,,25,winner
+344,99,Muslim forces from Medina,313,14,unknown
+345,99,Quraysh forces from Mecca,1000,70,unknown
+346,100,Umayyad Caliphate,,,unknown
+347,100,al-Saghaniyan,,,unknown
+348,100,Türgesh Khaganate,50000,,unknown
+349,100,Principality of Khuttal and other Transoxianian allies,50000,,unknown
+350,101,Carthage,8000,,unknown
+351,101,Rebels,25000,6000,unknown
+352,102,Populares,7500,,loser
+353,102,Optimates,60,,winner
+354,102,Numidia,60,,winner
+355,102,Garamantes,60,,winner
+356,103,Tang China,,,unknown
+357,103,Silla Korea,,,unknown
+358,103,Yamato Japan,,10000,unknown
+359,103,Baekje Korea,,10000,unknown
+360,104,Entente Powers :,6,145,unknown
+361,104,Czechoslovak Legions Soviet Russia,6,145,unknown
+362,104,Central Powers :,224,300,unknown
+363,104,Germany,224,300,unknown
+364,105,United Kingdom,28000,615,tied
+365,105,France,28000,615,tied
+366,105,Ottoman Empire Tunis,28000,615,tied
+367,105,Russia,16000,627,tied
+368,106,Netherlands,1100,200,loser
+369,106,United States,1100,200,loser
+370,106,Japan,6600,47,winner
+371,107,Australia,33000,229,winner
+372,107,United States,33000,229,winner
+373,107,Netherlands,33000,229,winner
+374,107,United Kingdom,33000,229,winner
+375,107,Japan,3900,2032,loser
+376,108,Republic of China,4000,3000,unknown
+377,108,Chinese Communist Party,7000,,unknown
+378,109,France,2137,74,unknown
+379,109,China,30000,,unknown
+380,109,Black Flag Army,30000,,unknown
+381,111,Kingdom of Scotland,8000,100,unknown
+382,111,Kingdom of England,25000,700,unknown
+383,112,Dutch Republic,,,unknown
+384,112,Portuguese Empire,,,unknown
+385,114,Germany,1941,186452,unknown
+386,114,Romania,1941,186452,unknown
+387,114,Finland,1941,186452,unknown
+388,114,Italy,1941,186452,unknown
+389,114,Hungary,1941,186452,unknown
+390,114,Slovakia,1941,186452,unknown
+391,115,France,20000,1700,tied
+392,115,England,40000,2000,tied
+393,115,United Provinces,40000,2000,tied
+394,116,House of York,11000,1000,unknown
+395,116,House of Lancaster,20000,10000,unknown
+396,117,India,3,,winner
+397,117,Pakistan,3,,loser
+398,118,Forces of Ali,10000,450,unknown
+399,118,Banu Hashim,10000,450,unknown
+400,118,Tribesmen of Kufa,10000,450,unknown
+401,118,Banu Abdul Qays,10000,450,unknown
+402,118,Banu Bakr of Basra,10000,450,unknown
+403,118,Tayy,10000,450,unknown
+404,118,Jats,10000,450,unknown
+405,118,"Forces of Aisha, Talha, and Zubayr",10000,2500,unknown
+406,118,Banu Umayya,10000,2500,unknown
+407,118,Quraysh of Mecca,10000,2500,unknown
+408,118,Sections of the Banu Tamim and Azd of Basra,10000,2500,unknown
+409,118,Banu Amir,10000,2500,unknown
+410,119,United States,120000,10000,loser
+411,119,Philippines,120000,10000,loser
+412,119,Empire of Japan,75000,3107,winner
+413,120,United States,35000,338,winner
+414,120,Commonwealth of the Philippines,35000,338,winner
+415,120,Japan,2800,2400,loser
+416,120,Second Philippine Republic,2800,2400,loser
+417,121,Paulician principality of Tephrike,,,unknown
+418,121,Byzantine Empire,,,unknown
+419,122,Russia,21000,1542,winner
+420,122,Ottoman Empire,7000,5000,loser
+421,123,France,150000,22500,winner
+422,123,Russia,96500,15500,loser
+423,123,Prussia,96500,15500,loser
+424,124,United Kingdom,1941,1928,winner
+425,124,Australia,1941,1928,winner
+426,124,Italy,10,25000,loser
+427,125,United States,,6,winner
+428,125,Arapaho,600,32,loser
+429,125,Cheyenne,600,32,loser
+430,125,Sioux,600,32,loser
+431,126,United Kingdom,47500,171,winner
+432,126,Australia,47500,171,winner
+433,126,New Zealand,47500,171,winner
+434,126,Arab Revolt,47500,171,winner
+435,126,Ottoman Empire,,1000,loser
+436,126,Germany,,1000,loser
+437,127,Free France United Kingdom,,,winner
+438,127,India Australia,,,winner
+439,127,Vichy France,40000,,loser
+440,127,French Lebanon,40000,,loser
+441,128,United States,6,9777,winner
+442,128,France,6,9777,winner
+443,128,United Kingdom,6,9777,winner
+444,128,Germany,5,10000,loser
+445,129,Irish Confederates,5000,300,unknown
+446,129,Scots Covenanters,6000,2500,unknown
+447,129,Anglo-Irish Landlords,6000,2500,unknown
+448,130,Guelphs,12000,,unknown
+449,130,House of Anjou,12000,,unknown
+450,130,House of Capet,12000,,unknown
+451,130,Ghibellines,14000,3600,unknown
+452,130,House of Hohenstaufen,14000,3600,unknown
+453,131,Roman Republic,,,unknown
+454,131,Epirus,,2,unknown
+455,132,Wessex,,,unknown
+456,132,Mercia,,,unknown
+457,132,Vikings,,,unknown
+458,133,British Empire,1000,38,tied
+459,133,Basuto,7000,50,tied
+460,133,Taung,7000,50,tied
+461,134,Cossack Hetmanate,200000,40000,unknown
+462,134,Crimean Khanate,200000,40000,unknown
+463,134,Polish-Lithuanian Commonwealth,16000,700,unknown
+464,135,France,22000,,unknown
+465,135,Batavian Republic,22000,,unknown
+466,136,United States,,7,winner
+467,136,Japan,,14,loser
+468,137,United Kingdom,,,loser
+469,137,Canada,,,loser
+470,137,Australia,,,loser
+471,137,New Zealand,,,loser
+472,137,Poland,,,loser
+473,137,Germany,,,winner
+474,138,Russia,,361367,unknown
+475,138,Poland,,361367,unknown
+476,138,Germany,,921000,unknown
+477,140,United States,12000,438,winner
+478,140,Australia,12000,438,winner
+479,140,Japan,11400,4700,loser
+480,141,Spanish Republic,50000,,unknown
+481,141,Basque Army,50000,,unknown
+482,141,Nationalist Spain,60000,105,unknown
+483,141,CTV,60000,105,unknown
+484,141,Condor Legion,60000,105,unknown
+485,142,British Empire,,,loser
+486,142,British India,,,loser
+487,142,Japan,,,winner
+488,143,Katipunan,35000,300,unknown
+489,143,Magdalo,35000,300,unknown
+490,143,Magdiwang,35000,300,unknown
+491,143,Matagumpay,35000,300,unknown
+492,143,Spanish Empire,73,500,unknown
+493,143,Guardia Civil,73,500,unknown
+494,144,Spain,14000,99,unknown
+495,144,Austria,8000,1000,unknown
+496,145,United States,54,13,winner
+497,145,Australia,54,13,winner
+498,145,Japan,100,2890,loser
+499,146,Kingdom of England,5000,,unknown
+500,146,Kingdom of France,3500,2000,unknown
+501,147,Grand Alliance :,,12984,unknown
+502,147,England,,12984,unknown
+503,147,Austria,,12984,unknown
+504,147,Dutch Republic,,12984,unknown
+505,147,Prussia,,12984,unknown
+506,148,Voortrekkers,664,3,unknown
+507,148,Zulu Kingdom,30000,3000,unknown
+508,149,House of York,5000,1000,unknown
+509,149,House of Lancaster,10000,2000,unknown
+510,150,France,119000,42000,unknown
+511,150,Poland,119000,42000,unknown
+512,150,Italy,119000,42000,unknown
+513,150,Naples,119000,42000,unknown
+514,150,Bavaria,119000,42000,unknown
+515,150,Westphalia,119000,42000,unknown
+516,150,Wurttemberg Saxony,119000,42000,unknown
+517,150,Hesse,119000,42000,unknown
+518,150,Russia,142500,53000,unknown
+519,151,Grand Duchy of Lithuania,12000,,unknown
+520,151,Kingdom of Poland,12000,,unknown
+521,151,Grand Duchy of Moscow,11000,40000,unknown
+522,152,Kingdom of Croatia,,,unknown
+523,152,Bulgarian Empire,,,unknown
+524,153,House of York,9750,,unknown
+525,153,House of Tudor,6000,100,unknown
+526,153,Supported by:,6000,100,unknown
+527,153,Kingdom of France,6000,100,unknown
+528,153,Kingdom of Scotland Stanley family,6000,100,unknown
+529,154,France,16000,20,winner
+530,154,Spain,15000,2000,loser
+531,154,Portugal,15000,2000,loser
+532,155,Kingdom ofFrance,6000,2,tied
+533,155,Duchy of Burgundy,6000,2,tied
+534,155,County of Champagne,6000,2,tied
+535,155,County of Dreux,6000,2,tied
+536,155,County of Ponthieu,6000,2,tied
+537,155,County of Saint-Pol,6000,2,tied
+538,155,County of Beaumont,6000,2,tied
+539,155,County of Soissons,6000,2,tied
+540,155,County of Perche,6000,2,tied
+541,155,County of Auxerre,6000,2,tied
+542,155,County of Nevers,6000,2,tied
+543,155,Lordship of Nemours,6000,2,tied
+544,155,Lordship of Coucy,6000,2,tied
+545,155,Viscounty of Melun,6000,2,tied
+546,155,Duchy of Normandy,6000,2,tied
+547,155,Duchy of Bretagne Prince-Bishopric of Liège,6000,2,tied
+548,155,Holy RomanEmpire,7500,169,tied
+549,155,County of Hainaut,7500,169,tied
+550,155,Kingdom of Germany,7500,169,tied
+551,155,Duchy of Brabant,7500,169,tied
+552,155,County of Louvain,7500,169,tied
+553,155,Duchy of Lorraine,7500,169,tied
+554,155,County of Holland,7500,169,tied
+555,155,County of Namur,7500,169,tied
+556,155,Duchy of Limburg,7500,169,tied
+557,155,Duchy of Saxony,7500,169,tied
+558,155,County Palatine of the Rhine,7500,169,tied
+559,155,County of Tecklenburg,7500,169,tied
+560,155,County of Katzenelnbogen,7500,169,tied
+561,155,Free imperial city of Dortmund County of Flanders Kingdom of England County of Boulogne Barony of Boves,7500,169,tied
+562,156,Venezuela,2350,13,unknown
+563,156,New Granada,2350,13,unknown
+564,156,British Legions,2350,13,unknown
+565,156,Kingdom of Spain,2300,100,unknown
+566,157,Williamites,36000,500,unknown
+567,157,Dutch Republic,36000,500,unknown
+568,157,Scotland,36000,500,unknown
+569,157,Irish Jacobites,23500,1500,unknown
+570,157,France,23500,1500,unknown
+571,158,Kingdom of France,16500,1700,unknown
+572,158,Weimar Army,16500,1700,unknown
+573,158,Holy Roman Empire,11500,4000,unknown
+574,158,Bavaria,11500,4000,unknown
+575,159,Swedish Empire,40150,5550,unknown
+576,159,Electorate of Saxony,40150,5550,unknown
+577,159,Holy Roman Empire,31400,16600,unknown
+578,159,Catholic League,31400,16600,unknown
+579,160,Swedish Empire,10000,2000,unknown
+580,160,Holy Roman Empire,10000,5000,unknown
+581,161,Royalists,4600,,unknown
+582,161,Parliamentarians,1300,170,unknown
+583,162,France,36000,,unknown
+584,162,Prussia,29000,3500,unknown
+585,162,Russia,29000,3500,unknown
+586,163,United Kingdom,1963,,winner
+587,163,Canada,1963,,winner
+588,164,Great Britain,15500,93,winner
+589,164,Hesse-Kassel,15500,93,winner
+590,164,United States,14600,250,loser
+591,165,Germany,750,,loser
+592,165,Russia,3500,,winner
+593,166,Great Britain,20000,64,winner
+594,166,Hesse-Kassel,20000,64,winner
+595,166,United Colonies,10000,2179,loser
+596,167,Spanish Republic,50000,15000,tied
+597,167,International Brigades,50000,15000,tied
+598,167,Nationalist Spain Germany,65000,7000,tied
+599,167,Condor Legion,65000,7000,tied
+600,168,Kingdom of England,,,unknown
+601,168,Kingdom of Dublin,,,unknown
+602,168,Kingdom of Alba,,,unknown
+603,168,Kingdom of Strathclyde,,,unknown
+604,169,Swedish supporters of the Sture party,10000,,unknown
+605,169,Denmark and Swedish unionist troops,6000,1370,unknown
+606,170,Swedes,,,unknown
+607,170,Estonians and Western Geats,,,unknown
+608,170,Danes and Eastern Geats and Wends,,,unknown
+609,171,Majapahit Empire,,,unknown
+610,171,Sunda Kingdom,2200,,unknown
+611,172,United Kingdom,33882,1356,unknown
+612,172,Portugal,33882,1356,unknown
+613,172,France,51887,4500,unknown
+614,173,United States,8,14,winner
+615,173,Sultanate of Sulu,800,200,loser
+616,174,United States,750,21,winner
+617,174,Moros,1000,850,loser
+618,175,United States,1256,3,winner
+619,175,Moro rebels,800,,loser
+620,176,United States,4672,267,tied
+621,176,Mexico,15142,591,tied
+622,177,Russian Empire,573000,440000,loser
+623,177,Austria-Hungary,450000,200000,winner
+624,177,German Empire,450000,200000,winner
+625,177,Ottoman Empire,450000,200000,winner
+626,178,United States,,,winner
+627,178,United Kingdom,,,winner
+628,178,Canada,,,winner
+629,178,Belgium,,,winner
+630,178,Germany,,,loser
+631,179,United States,16000,481,loser
+632,179,Confederate States,33000,387,winner
+633,180,United States,51000,1747,loser
+634,180,Confederate States,50000,1096,winner
+635,181,United Colonies,2400,115,winner
+636,181,Connecticut,2400,115,winner
+637,181,Massachusetts Bay,2400,115,winner
+638,181,New Hampshire,2400,115,winner
+639,181,Rhode Island,2400,115,winner
+640,181,Great Britain,3000,19,loser
+641,182,French Empire,18000,200,winner
+642,182,Spain,9800,3400,loser
+643,183,Prussia Russia,23000,1600,unknown
+644,183,Austria,20000,3000,unknown
+645,184,Great Britain,17072,289,winner
+646,184,East India Company Kashi Kingdom,17072,289,winner
+647,184,Mughal Empire,40112,2000,loser
+648,184,Bengal,40112,2000,loser
+649,184,Awadh,40112,2000,loser
+650,185,Habsburg Spain,,,unknown
+651,185,Portugal under Philip of Spain,,,unknown
+652,185,Elizabethan England,,,unknown
+653,186,Kingdom of England,12000,,unknown
+654,186,Kingdom of France,1500,5000,unknown
+655,187,United Kingdom,10,24969,winner
+656,187,Canada,10,24969,winner
+657,187,Germany,7,148000,loser
+658,188,First Philippine Republic,,52,winner
+659,188,United States,,4,loser
+660,189,United States,3312,6,winner
+661,189,Philippine Republic,5000,,loser
+662,190,United States,20000,5,winner
+663,190,Philippine Republic,5000,500,loser
+664,191,United Kingdom,15,44207,unknown
+665,191,India,15,44207,unknown
+666,191,Newfoundland France United States China,15,44207,unknown
+667,191,Germany,20,8817,unknown
+668,192,Forces of Ali,10000,450,unknown
+669,192,Banu Hashim,10000,450,unknown
+670,192,Tribesmen of Kufa,10000,450,unknown
+671,192,Banu Abdul Qays,10000,450,unknown
+672,192,Banu Bakr of Basra,10000,450,unknown
+673,192,Tayy,10000,450,unknown
+674,192,Jats,10000,450,unknown
+675,192,"Forces of Aisha, Talha, and Zubayr",10000,2500,unknown
+676,192,Banu Umayya,10000,2500,unknown
+677,192,Quraysh of Mecca,10000,2500,unknown
+678,192,Sections of the Banu Tamim and Azd of Basra,10000,2500,unknown
+679,192,Banu Amir,10000,2500,unknown
+680,194,Great Britain,,203,winner
+681,194,Batavian Republic,,540,loser
+682,195,Roman Republic,15000,73750,unknown
+683,195,Carthage,8000,6850,unknown
+684,196,Spanish Republic,,,unknown
+685,196,Nationalist Spain,,,unknown
+686,197,Basque Navy,,,unknown
+687,197,Republican Navy,,,unknown
+688,197,Nationalist Navy,,,unknown
+689,198,Spanish Republic,,,unknown
+690,198,Nationalist Spain,,765,unknown
+691,199,Great Britain,,32,winner
+692,199,Spain,,2500,loser
+693,200,Great Britain,,73,winner
+694,200,Spain,4,250,loser
+695,201,Austria-Hungary,353000,70000,unknown
+696,201,Germany,353000,70000,unknown
+697,201,Italy,257400,13000,unknown
+698,202,Carthage,30000,,unknown
+699,202,Roman Republic,40000,1500,unknown
+700,203,Spain,16000,,unknown
+701,203,Habsburg Monarchy,6000,1000,unknown
+702,204,Gran Colombia,7250,300,unknown
+703,204,British Legions,7250,300,unknown
+704,204,Spain,4500,2908,unknown
+705,205,Covenanter clans,,,unknown
+706,205,Scottish Royalists,,,unknown
+707,205,"Danish, Swedish & German mercenaries",,,unknown
+708,205,Orcadian infantry,,,unknown
+709,206,Twenty-sixth Dynasty of Egypt,,,unknown
+710,206,Remnants of the army of the former Neo-Assyrian Empire,,,unknown
+711,206,Neo-Babylonian Empire,,,unknown
+712,207,France,3600,104,winner
+713,207,Canada,3600,104,winner
+714,207,Great Britain,12000,1000,loser
+715,207,America,12000,1000,loser
+716,208,Roman Republic,46000,,loser
+717,208,Carthage,30000,750000,winner
+718,209,Umayyad Caliphate,40000,,unknown
+719,209,Byzantine Empire,,,unknown
+720,210,Milan,8000,,winner
+721,210,Bologna,5000,,loser
+722,210,Florence,5000,,loser
+723,211,Slovene Partisans,,,unknown
+724,211,Former Anti-Communist Volunteer Militia,675,30,unknown
+725,211,Slovene Chetniks,675,30,unknown
+726,212,France,32500,4400,winner
+727,212,Dutch Republic,32500,8000,loser
+728,212,Spain,32500,8000,loser
+729,213,South Africa,370,3,winner
+730,213,SWAPO,400,150,loser
+731,213,Cuba,400,150,loser
+732,214,Kingdom of France,8000,100,winner
+733,214,Duchy of Brittany,8000,100,winner
+734,215,Western Roman Empire,,,unknown
+735,215,Visigoths,,,unknown
+736,215,Salian Franks,,,unknown
+737,215,Ripuarian Franks,,,unknown
+738,215,Burgundians,,,unknown
+739,215,Saxons,,,unknown
+740,215,Armoricans,,,unknown
+741,215,Alans,,,unknown
+742,215,Olibrones,,,unknown
+743,216,Roman Republic,,,unknown
+744,216,Samnium,,,unknown
+745,217,British Empire,10000,99,unknown
+746,217,East India Company,10000,99,unknown
+747,217,Rebel Company sepoys,14000,,unknown
+748,218,Polans,4000,,unknown
+749,218,Saxon Eastern March,3000,,unknown
+750,219,Kingdom of Gwynedd,,,unknown
+751,219,Kingdom of Mercia,,,unknown
+752,219,Kingdom of Northumbria,,,unknown
+753,220,Radical Hussites,10700,1300,loser
+754,220,Taborites,10700,1300,loser
+755,220,Orphans,10700,1300,loser
+756,220,Moderate Hussites,14300,200,winner
+757,220,Praguers,14300,200,winner
+758,220,Hussite nobles Bohemian Catholics,14300,200,winner
+759,220,forces of Pilsen,14300,200,winner
+760,220,forces of Pilsen's Landfrieden,14300,200,winner
+761,220,forces of Karlštejn,14300,200,winner
+762,220,Rosenberg 's forces,14300,200,winner
+763,220,city units of Prague and Mělník,14300,200,winner
+764,221,Kingdom of Portugal,,,unknown
+765,221,Marinid dynasty,,,unknown
+766,222,Macedon,,,winner
+767,222,Thessaly,,,winner
+768,222,Argos,,,winner
+769,222,Arcadia,,,winner
+770,222,Phocis,,,winner
+771,223,Roman Republic,30000,12,unknown
+772,223,Kingdom of Pontus,60000,10000,unknown
+773,224,Athens,,,unknown
+774,224,Sparta,,,unknown
+775,224,Korinth,,,unknown
+776,225,Roman Empire,35000,6000,unknown
+777,225,Gallic Empire,60000,50000,unknown
+778,226,Imperial France,17500,400,winner
+779,226,Russian Empire,4350,3200,loser
+780,227,United States,106000,1606,loser
+781,227,Confederate States,60298,1665,winner
+782,228,Qing Empire,40000,10000,loser
+783,228,Tongmenghui,3000,900,winner
+784,229,Republic of China,240000,20000,unknown
+785,229,Empire of Japan,120000,50000,unknown
+786,230,Republic of China,300000,23858,unknown
+787,230,Empire of Japan,120000,1670,unknown
+788,231,Republic of China,249058,28612,unknown
+789,231,Empire of Japan,120000,1591,unknown
+790,232,China,286000,32009,loser
+791,232,Empire of Japan,,104675,winner
+792,233,State of Zhao,450000,400000,unknown
+793,233,State of Qin,550000,250000,unknown
+794,234,United States,2000,138,winner
+795,234,Mexico,832,600,loser
+796,235,United Kingdom,1530,2,winner
+797,235,Lower Canada,1530,2,winner
+798,235,Mohawk,1530,2,winner
+799,235,United States,2600,23,loser
+800,236,Sur Empire,,,unknown
+801,236,Mughal Empire,200000,7000,unknown
+802,237,French Empire,36000,250,winner
+803,237,Kingdom of Sardinia,36000,250,winner
+804,237,Ottoman Empire,36000,250,winner
+805,237,Russian Empire,60000,3330,loser
+806,238,France,1542,220,winner
+807,238,Great Britain,1410,90,loser
+808,239,Russian Empire,,661,unknown
+809,239,Ottoman Empire,1300,11000,unknown
+810,240,United States,60000,1657,loser
+811,240,Confederate States,65000,2312,winner
+812,241,United Kingdom,2000,108,winner
+813,241,Upper Canada,2000,108,winner
+814,241,Mohawk,2000,108,winner
+815,241,United States,3564,,loser
+816,241,Seneca,3564,,loser
+817,242,Kingdom of France,1500,,winner
+818,242,Kingdom of England,700,,loser
+819,243,Polish Crown,3000,3000,unknown
+820,243,Prussian Confederation,3000,3000,unknown
+821,243,Teutonic Order,6000,100,unknown
+822,244,United Nations,254571,676,unknown
+823,244,United States,254571,676,unknown
+824,244,Turkey,254571,676,unknown
+825,244,United Kingdom South Korea,254571,676,unknown
+826,244,China,230000,10000,unknown
+827,245,United Nations,30000,,unknown
+828,245,United States,30000,,unknown
+829,245,United Kingdom,30000,,unknown
+830,245,South Korea,30000,,unknown
+831,245,Australia,30000,,unknown
+832,245,China,120000,,unknown
+833,246,Constantine the Great,105000,,unknown
+834,246,Licinius,120000,30000,unknown
+835,247,French Empire,12700,100,unknown
+836,247,Duchy of Warsaw,12700,100,unknown
+837,247,Kingdom of Spain,12500,3000,unknown
+838,248,Normans,3000,,unknown
+839,248,Papal coalition Byzantine Empire,6000,,unknown
+840,248,Swabians,6000,,unknown
+841,248,Italians,6000,,unknown
+842,248,Lombards,6000,,unknown
+843,250,Kingdom of France,2250,,winner
+844,250,Kingdom of Navarre,5500,,loser
+845,250,Kingdom of England,5500,,loser
+846,251,United States,112500,1845,loser
+847,251,Confederate States,60500,788,winner
+848,252,United Kingdom,,,unknown
+849,252,Cape Colony,,,unknown
+850,252,Colony of Natal,,,unknown
+851,252,Transvaal,4500,,unknown
+852,252,Orange Free State,4500,,unknown
+853,253,Denmark,10650,19,unknown
+854,253,Dutch Republic,10650,19,unknown
+855,253,Swedish Empire,9050,1700,unknown
+856,254,United Kingdom,,1200,winner
+857,254,Denmark,,,loser
+858,255,United Kingdom,25000,42,winner
+859,255,Denmark,10000,3000,loser
+860,256,United States,128,715,unknown
+861,256,Australia,128,715,unknown
+862,256,Japan,139,966,unknown
+863,257,Boeotian city-states,,,unknown
+864,257,Delian League,1000,,unknown
+865,258,German Empire,,3,loser
+866,258,British Empire,,1660,winner
+867,259,Kingdom of Asturias,300,290,unknown
+868,259,Umayyad Caliphate,,184000,unknown
+869,260,Swedish Empire,13500,,unknown
+870,260,Polish,2200,,unknown
+871,261,France,48000,6700,winner
+872,261,Prussia,110000,5000,loser
+873,261,Russia,110000,5000,loser
+874,262,Kingdom of England,4000,,unknown
+875,262,Burgundian State,4000,,unknown
+876,262,Kingdom of France,8000,3000,unknown
+877,262,Kingdom of Scotland,8000,3000,unknown
+878,263,United States,8500,504,loser
+879,263,Confederate States,6100,361,winner
+880,264,Kingdom of England,11000,300,unknown
+881,264,Kingdom of France,8000,4000,unknown
+882,264,Kingdom of Bohemia,8000,4000,unknown
+883,265,United Kingdom,10854,3579,loser
+884,265,Greece,10854,3579,loser
+885,265,New Zealand,10854,3579,loser
+886,265,Australia,10854,3579,loser
+887,265,Germany,22000,,winner
+888,265,Italy,22000,,winner
+889,266,Germany,,,winner
+890,266,United States,,,loser
+891,267,United Kingdom,800,31,winner
+892,267,Upper Canada,800,31,winner
+893,267,United States,8000,102,loser
+894,268,Great Britain,7050,50,unknown
+895,268,Jacobites,5500,2000,unknown
+896,269,Cyrus loyalists,10400,,tied
+897,269,Artaxerxes loyalists,40000,,tied
+898,270,Cree,250,,winner
+899,270,Assiniboine,250,,winner
+900,270,Canada,350,,loser
+901,271,Mexico,350,2,loser
+902,271,Sinaloa Cartel,750,8,winner
+903,272,Empire of Japan,35500,6198,loser
+904,272,Russian Empire,3800,182,winner
+905,273,United Kingdom,,,winner
+906,273,Free France,,,winner
+907,273,Australia,,,winner
+908,273,Vichy France,,100,loser
+909,273,French West Africa,,100,loser
+910,274,Australia,,,winner
+911,274,Vichy France,,,loser
+912,274,French Lebanon,,,loser
+913,275,Taliban,2000,,winner
+914,275,Islamic State,650,245,loser
+915,275,Khorasan Province Islamic Republic of Afghanistan,650,245,loser
+916,276,Umayyad Caliphate,40000,,unknown
+917,276,Türgesh Khaganate and Transoxianian allies,,10000,unknown
+918,277,Athens,18000,1200,loser
+919,277,Boeotia,,500,winner
+920,278,Ukraine,3750,267,unknown
+921,278,Donetsk People Republic,14500,868,unknown
+922,278,Donetsk People Republic,14500,868,unknown
+923,278,Russia,14500,868,unknown
+924,279,France,26000,2100,winner
+925,279,Habsburg monarchy,10500,6500,loser
+926,279,Dutch Republic,10500,6500,loser
+927,280,West Saxons,,,unknown
+928,280,Britons,,,unknown
+929,281,Denmark,12000,4000,unknown
+930,281,Holy Roman Empire,20000,2000,unknown
+931,281,Catholic League,20000,2000,unknown
+932,282,United Kingdom,330,2,unknown
+933,282,Upper Canada,330,2,unknown
+934,282,Tecumseh's Confederacy,330,2,unknown
+935,282,United States,2500,7,unknown
+936,283,Great Britain,35000,2332,winner
+937,283,Hanover,35000,2332,winner
+938,283,Austria,35000,2332,winner
+939,283,France,23000,3750,loser
+940,284,French Union,9000,2293,loser
+941,284,France,9000,2293,loser
+942,284,State of Vietnam United States,9000,2293,loser
+943,284,Democratic Republic of Vietnam,80000,8000,winner
+944,284,Viet Minh,80000,8000,winner
+945,285,French First Republic,50250,3000,winner
+946,285,Habsburg monarchy,29000,2700,loser
+947,286,Seljuk Empire,175000,400000,unknown
+948,286,Artuqids,175000,400000,unknown
+949,286,Beylik of Dilmaç,175000,400000,unknown
+950,286,Banu Mazyad,175000,400000,unknown
+951,286,Shaddadids,175000,400000,unknown
+952,286,Emirate of Tbilisi,175000,400000,unknown
+953,287,Ottoman Empire,5500,1500,unknown
+954,287,Emirate of Diriyah,,1300,unknown
+955,288,Portuguese Empire,,332,unknown
+956,288,Mamluk Sultanate,,,unknown
+957,288,Gujarat Sultanate,,,unknown
+958,288,Kingdom of Calicut,,,unknown
+959,289,Great Britain,3500,104,tied
+960,289,Dutch Republic,2600,142,tied
+961,290,United Kingdom,,47,winner
+962,290,Germany,,1034,loser
+963,291,Prussia,7000,3500,loser
+964,291,Austria,12000,680,winner
+965,292,Crusaders,12000,4000,unknown
+966,292,Sultanate of Rûm,7000,3000,unknown
+967,292,Danishmendids,7000,3000,unknown
+968,293,Slovene Partisans,200,9,unknown
+969,293,Germany,4000,27,unknown
+970,294,Carthage,115,,unknown
+971,294,Roman Republic,123,20000,unknown
+972,295,France,100000,10000,winner
+973,295,Saxony,100000,10000,winner
+974,295,Austria,200000,14000,loser
+975,295,Russia,200000,14000,loser
+976,295,Prussia,200000,14000,loser
+977,296,Egypt,1200,,winner
+978,296,Mahdist State,1400,250,loser
+979,297,Ankara Government,98670,2318,unknown
+980,297,Greece,130000,8000,unknown
+981,298,France,3000,400,unknown
+982,298,English Commonwealth,3000,400,unknown
+983,298,Spain,2000,1200,unknown
+984,298,English royalists,2000,1200,unknown
+985,299,France,400000,61774,loser
+986,299,United Kingdom,400000,61774,loser
+987,299,Belgium,400000,61774,loser
+988,299,Canada,400000,61774,loser
+989,299,Netherlands,400000,61774,loser
+990,299,Germany,800000,20000,winner
+991,300,Kingdom of Scotland,,,unknown
+992,300,Kingdom of England,,,unknown
+993,301,Scotland,9500,,unknown
+994,301,England,,40,unknown
+995,302,English Parliamentarians,5000,,unknown
+996,302,Irish Confederates,7000,3000,unknown
+997,303,Pictland,,,unknown
+998,303,Northumbria,,,unknown
+999,304,Scotland,15000,,unknown
+1000,304,Disinherited Scots,1500,35,unknown
+1001,304,English supporters,1500,35,unknown
+1002,305,Prussia,11000,263,winner
+1003,305,Denmark,5000,671,loser
+1004,306,National Revolutionary Army Central Army,,,unknown
+1005,306,Anti-Chiang forces,,,unknown
+1006,307,Spanish Republic,75,15000,unknown
+1007,307,International Brigades,75,15000,unknown
+1008,308,France,70000,3000,winner
+1009,308,Bavaria,70000,3000,winner
+1010,308,Wurttemberg,70000,3000,winner
+1011,308,Austria,75000,10700,loser
+1012,309,Royalists,,500,tied
+1013,309,Parliamentarians,,500,tied
+1014,310,French Empire,17000,823,winner
+1015,310,Austrian Empire,16000,6000,loser
+1016,311,Russian Empire,,1650,unknown
+1017,311,Ottoman Empire,,2000,unknown
+1018,312,United Kingdom,15000,900,unknown
+1019,312,France,12000,700,unknown
+1020,313,Shewa,,913,winner
+1021,313,Gojjam,,929,loser
+1022,314,France,84000,3000,tied
+1023,314,Austria,72000,397,tied
+1024,315,United States,2,51,winner
+1025,315,Japan,400,350,loser
+1026,316,British Empire,1700,137,winner
+1027,316,Zulu Kingdom,12000,1000,loser
+1028,317,French Empire,21000,1100,winner
+1029,317,Spain,23000,5400,loser
+1030,318,Austria,98260,5200,winner
+1031,318,France,80130,5000,loser
+1032,319,Delian League,200,,unknown
+1033,319,Achaemenid Empire,275,200,unknown
+1034,320,Royal forces,10000,,unknown
+1035,320,Baronial forces,5000,4000,unknown
+1036,320,Kingdom of Gwynedd,5000,4000,unknown
+1037,321,Britons,,,tied
+1038,321,Mercia,,,tied
+1039,322,Exonian rebels and allies from other nearby cities,,,unknown
+1040,322,Royal forces,500,,unknown
+1041,323,Southwestern Catholics,7000,2000,unknown
+1042,323,Kingdom of England,8600,300,unknown
+1043,324,French Empire,75000,22321,unknown
+1044,324,Russian Empire,79500,20500,unknown
+1045,324,Kingdom of Prussia,79500,20500,unknown
+1046,325,Spain,200,2,unknown
+1047,325,United States,,,unknown
+1048,326,United States,580000,5679,winner
+1049,326,United Kingdom,580000,5679,winner
+1050,326,Canada,580000,5679,winner
+1051,326,Poland,580000,5679,winner
+1052,326,France,580000,5679,winner
+1053,326,Germany,200000,10000,loser
+1054,327,Kingdom of Scotland,6000,2000,unknown
+1055,327,Kingdom of England,15000,2000,unknown
+1056,327,County Palatine of Durham,15000,2000,unknown
+1057,328,Jacobites,8000,130,unknown
+1058,328,France,8000,130,unknown
+1059,328,Great Britain,7000,370,unknown
+1060,329,United Kingdom,,10,winner
+1061,329,Germany,,1871,loser
+1062,330,Brandenburg-Prussia,7000,500,unknown
+1063,330,Swedish Empire,7000,600,unknown
+1064,331,Former Qin dynasty,870000,700000,unknown
+1065,331,Eastern Jin dynasty,80000,,unknown
+1066,332,United States,22000,830,unknown
+1067,332,Confederate States,10600,2950,unknown
+1068,333,Dutch Republic,8000,5000,unknown
+1069,333,German soldiers,8000,5000,unknown
+1070,333,Spanish Empire,6000,1000,unknown
+1071,334,France,30000,3600,winner
+1072,334,Dutch Republic,37900,20000,loser
+1073,334,Spain,37900,20000,loser
+1074,335,French Republic,70000,5000,winner
+1075,335,Habsburg Monarchy,45000,5000,loser
+1076,335,Dutch Republic,45000,5000,loser
+1077,336,Kingdom of England,30000,1700,unknown
+1078,336,Kingdom of Scotland,40000,14000,unknown
+1079,337,Russian Empire,24000,800,unknown
+1080,337,Habsburg Monarchy,24000,800,unknown
+1081,337,Ottoman Empire,30000,1600,unknown
+1082,338,Imperialists,,,unknown
+1083,338,Divisionists,,,unknown
+1084,339,French Republic,14000,4000,unknown
+1085,339,Vendeans,35000,1000,unknown
+1086,340,France,50000,8000,winner
+1087,340,Great Britain,50000,12000,loser
+1088,340,Dutch Republic,50000,12000,loser
+1089,340,Hanover,50000,12000,loser
+1090,340,Holy Roman Empire,50000,12000,loser
+1091,341,Kingdom of France,4200,1000,unknown
+1092,341,Duchy of Brittany,4200,1000,unknown
+1093,341,Kingdom of England,4000,,unknown
+1094,342,France,11000,200,winner
+1095,342,League of Venice :,21500,4000,loser
+1096,342,Republic of Venice,21500,4000,loser
+1097,342,Duchy of Milan,21500,4000,loser
+1098,342,Margraviate of Mantua,21500,4000,loser
+1099,343,Spain,7500,272,unknown
+1100,343,Great Britain,3500,1320,unknown
+1101,344,United States,24531,507,unknown
+1102,344,Confederate States,16171,327,unknown
+1103,345,Ming loyalists,25000,2200,winner
+1104,345,Dutch East India Company,905,1600,loser
+1105,346,Sweden,18000,800,unknown
+1106,346,Holy Roman Empire Holy Roman Empire,6400,3000,unknown
+1107,346,German Catholic League,6400,3000,unknown
+1108,347,United States,122009,1284,loser
+1109,347,Confederate States,78513,608,winner
+1110,348,Kingdom of France,16000,8000,tied
+1111,348,Holy Roman Empire,13000,4000,tied
+1112,348,Electorate of Bavaria,13000,4000,tied
+1113,349,Prussia,22328,2500,winner
+1114,349,Austria,29000,8000,loser
+1115,350,French Empire,80000,9000,winner
+1116,350,Kingdom of Saxony,80000,9000,winner
+1117,350,Russian Empire,53000,40000,loser
+1118,351,France,62,,loser
+1119,351,Belgium,62,,loser
+1120,351,United Kingdom,62,,loser
+1121,351,Germany,68,,winner
+1122,352,United Kingdom,36000,241,unknown
+1123,352,Portugal,36000,241,unknown
+1124,352,French Empire,42000,343,unknown
+1125,353,Kingdom of Norway,10000,1000,unknown
+1126,353,Earldom of Orkney,10000,1000,unknown
+1127,353,Kingdom of the Isles English rebels,10000,1000,unknown
+1128,353,Kingdom of England,3000,,unknown
+1129,353,Earldom of Northumberland,3000,,unknown
+1130,353,Earldom of Mercia,3000,,unknown
+1131,354,Swedish Empire,,1000,unknown
+1132,354,Holy Roman Empire,,1000,unknown
+1133,354,Catholic League,,1000,unknown
+1134,355,British Empire,519500,31389,unknown
+1135,355,United Kingdom,519500,31389,unknown
+1136,355,Australia,519500,31389,unknown
+1137,355,Egypt,519500,31389,unknown
+1138,355,New Zealand,519500,31389,unknown
+1139,355,India,519500,31389,unknown
+1140,355,Newfoundland,519500,31389,unknown
+1141,355,Algeria,519500,31389,unknown
+1142,355,Tunisia,519500,31389,unknown
+1143,355,West Africa Russian Empire,519500,31389,unknown
+1144,355,Ottoman Empire,282750,56643,unknown
+1145,355,German Empire,282750,56643,unknown
+1146,355,Austria-Hungary,282750,56643,unknown
+1147,356,Bangladesh,1200,28,winner
+1148,356,India,1200,28,winner
+1149,356,Pakistan,3600,300,loser
+1150,357,Macedonia,,1300,winner
+1151,357,Hellenic League,,1300,winner
+1152,357,Achaemenid Empire,,65000,loser
+1153,358,British Empire,31000,523,unknown
+1154,358,Canada,31000,523,unknown
+1155,358,British India,31000,523,unknown
+1156,358,Australia,31000,523,unknown
+1157,358,New Zealand,31000,523,unknown
+1158,358,United Kingdom,31000,523,unknown
+1159,358,Ottoman Empire,19000,300,unknown
+1160,358,German Empire,19000,300,unknown
+1161,358,Austria-Hungary,19000,300,unknown
+1162,358,Emirate of Jabal Shammar,19000,300,unknown
+1163,359,British Empire,,509,loser
+1164,359,United Kingdom,,509,loser
+1165,359,Canada,,509,loser
+1166,359,Australia,,509,loser
+1167,359,New Zealand France,,509,loser
+1168,359,Ottoman Empire,,402,winner
+1169,359,German Empire,,402,winner
+1170,360,France,35000,500,winner
+1171,360,Austria,38000,1500,loser
+1172,360,Prussia,38000,1500,loser
+1173,360,Electorate of Bavaria,38000,1500,loser
+1174,360,Hesse-Kassel,38000,1500,loser
+1175,361,Great Britain,9000,71,winner
+1176,361,Hesse-Kassel,9000,71,winner
+1177,361,United States,11000,152,loser
+1178,361,Canadian auxiliaries,11000,152,loser
+1179,362,United States,36,23049,unknown
+1180,362,Confederate States,70000,25500,unknown
+1181,364,British Empire,5670,11,winner
+1182,364,Zulu Kingdom,11000,1000,loser
+1183,365,British government,1100,141,unknown
+1184,365,Jacobites,1440,100,unknown
+1185,365,Spain,1440,100,unknown
+1186,366,Great Britain,,1200,unknown
+1187,366,France,,,unknown
+1188,367,Royalists,15650,120,unknown
+1189,367,Parliamentarians,15000,50,unknown
+1190,368,German Empire,1613360,520000,unknown
+1191,368,Austria-Hungary,1613360,520000,unknown
+1192,368,Russian Empire,1424158,714976,unknown
+1193,369,British Empire,350,3,winner
+1194,369,Xhosa Kingdom,6000,1000,loser
+1195,370,Burgundian State,20000,,unknown
+1196,370,Old Swiss Confederacy,18000,,unknown
+1197,371,Macedonian Empire,12000,85,unknown
+1198,371,Hellenic League,12000,85,unknown
+1199,371,Achaemenid Empire,20000,1000,unknown
+1200,373,Forces of Valdemar I,2000,,unknown
+1201,373,Forces of Sweyn III,4500,4000,unknown
+1202,374,Kingdom of France,12000,12500,unknown
+1203,374,Kingdom of Spain,15000,300,unknown
+1204,374,Kingdom of England,15000,300,unknown
+1205,375,Swedish Navy,1000,103,unknown
+1206,375,Imperial Russian Navy,11000,82,unknown
+1207,376,Polish Hussites,,,unknown
+1208,376,Polish Crown,,,unknown
+1209,377,Kingdom of Poland,39000,,unknown
+1210,377,"Grand Duchy of Lithuania Vassals, allies and mercenaries:",39000,,unknown
+1211,377,Masovia-Warsaw,39000,,unknown
+1212,377,Masovia-Płock,39000,,unknown
+1213,377,Pomerania-Stolp,39000,,unknown
+1214,377,Belz,39000,,unknown
+1215,377,Moldavia,39000,,unknown
+1216,377,Smolensk,39000,,unknown
+1217,377,Tatars from Golden Horde,39000,,unknown
+1218,377,Bohemians,39000,,unknown
+1219,377,Moravians,39000,,unknown
+1220,377,Silesians,39000,,unknown
+1221,377,Wallachians,39000,,unknown
+1222,378,United States Australia United Kingdom,60000,7100,winner
+1223,378,Solomon Islands,60000,7100,winner
+1224,378,Fiji,60000,7100,winner
+1225,378,Tonga New Zealand,60000,7100,winner
+1226,378,Japan,36200,8500,loser
+1227,379,Visigothic Kingdom,2500,,unknown
+1228,379,Umayyad Caliphate,1900,3000,unknown
+1229,380,United States,547,17,loser
+1230,380,Japan,5900,1,winner
+1231,381,United States,,,winner
+1232,381,Japan,,,loser
+1233,382,Cao Cao,40000,8000,winner
+1234,382,Yuan Shao,110000,80000,loser
+1235,383,Guangdong Army 8th Route Army,,,unknown
+1236,383,Opponents of Li Jishen,,,unknown
+1237,384,Guangdong Army,,,winner
+1238,384,Supported by:,,,winner
+1239,384,Nationalist government,,,winner
+1240,384,New Guangxi clique,,,loser
+1241,385,Hunan Army,,,winner
+1242,385,Supported by: Nationalist government,,,winner
+1243,385,New Guangxi clique army,,,loser
+1244,386,British Empire,,3800,winner
+1245,386,India,,3800,winner
+1246,386,United Kingdom,,3800,winner
+1247,386,Ottoman Empire,13000,6000,loser
+1248,387,German Empire,74400,10000,unknown
+1249,387,Russian Empire,63800,6200,unknown
+1250,388,Kingdom of Croatia,,,unknown
+1251,388,Kingdom of Hungary,,,unknown
+1252,389,Kingdom of Scotland,15000,,unknown
+1253,389,Kingdom of England,10000,,unknown
+1254,390,Babylonians,,,loser
+1255,390,Chaldeans,,,loser
+1256,390,Aramaeans,,,loser
+1257,390,Elamites,,,loser
+1258,390,Medes,,,loser
+1259,390,Persians,,,loser
+1260,390,Assyria,,,winner
+1261,391,Catalan Company,4000,,unknown
+1262,391,Duchy of Athens,24000,,unknown
+1263,391,and allies,24000,,unknown
+1264,392,Lydia,,,tied
+1265,392,Media,,,tied
+1266,393,United States,,261,tied
+1267,393,Confederate States,,7,tied
+1268,394,Kingdom of England,11300,3500,unknown
+1269,394,Kingdom of France,100,2000,unknown
+1270,395,Scottish Crown,,600,tied
+1271,395,Lordship of the Isles,10000,900,tied
+1272,396,France,,,tied
+1273,396,Germany,,,tied
+1274,397,Duchy of Normandy,7000,,unknown
+1275,397,Kingdom of England,5000,,unknown
+1276,398,Kingdom of Jerusalem,20000,200,unknown
+1277,398,County of Tripoli,20000,200,unknown
+1278,398,Knights Templar,20000,200,unknown
+1279,398,Principality of Antioch,20000,200,unknown
+1280,398,Knights Hospitaller,20000,200,unknown
+1281,398,Order of St. Lazarus,20000,200,unknown
+1282,398,Order of Mountjoy,20000,200,unknown
+1283,398,Ayyubid Sultanate,40000,,unknown
+1284,399,United Kingdom,1,444,winner
+1285,399,Canada,1,444,winner
+1286,399,Germany,,600,loser
+1287,400,Denmark,,14,unknown
+1288,400,Austrian Empire,,36,unknown
+1289,400,Kingdom of Prussia,,36,unknown
+1290,401,United Kingdom,,35,winner
+1291,401,Germany,,712,loser
+1292,402,Constantinian fleet,200,,unknown
+1293,402,Licinian fleet,350,,unknown
+1294,403,Denmark,2500,,unknown
+1295,403,Hanseatic League,3000,,unknown
+1296,404,Peasantry of Dithmarschen,6000,60,unknown
+1297,404,Kalmar Union,,7000,unknown
+1298,404,Denmark,,7000,unknown
+1299,405,Epirus,35000,4000,unknown
+1300,405,Lucanians,35000,4000,unknown
+1301,405,Roman Republic,50000,15000,unknown
+1302,406,British Empire,4000,1100,unknown
+1303,406,Australia,4000,1100,unknown
+1304,406,India,4000,1100,unknown
+1305,406,New Zealand,4000,1100,unknown
+1306,406,United Kingdom,4000,1100,unknown
+1307,406,Ottoman Empire,,,unknown
+1308,407,British Empire,,3100,loser
+1309,407,Australia,,3100,loser
+1310,407,Canada,,3100,loser
+1311,407,United Kingdom,,3100,loser
+1312,407,German Empire,1,60,winner
+1313,407,Saxony,1,60,winner
+1314,407,Wurttemberg,1,60,winner
+1315,408,Bangladesh,18000,196,unknown
+1316,408,Mukti Bahini India,18000,196,unknown
+1317,408,Indian Army,18000,196,unknown
+1318,408,Pakistan,8000,80,unknown
+1319,408,Pakistan Army,8000,80,unknown
+1320,409,British Empire,675,225,unknown
+1321,409,Zulu Kingdom,25000,,unknown
+1322,410,Electoral Palatinate,17000,2000,unknown
+1323,410,Holy Roman Empire,26000,100,unknown
+1324,410,Catholic League Spanish Empire,26000,100,unknown
+1325,411,Holy Roman Empire,18000,4500,unknown
+1326,411,Kingdom of France,23000,1500,unknown
+1327,411,Electorate of Bavaria,23000,1500,unknown
+1328,412,France,60000,2000,winner
+1329,412,Austria,30000,5000,loser
+1330,413,Prussia,58500,4800,winner
+1331,413,Austria,62500,8650,loser
+1332,413,Saxony,62500,8650,loser
+1333,414,France,41990,3000,winner
+1334,414,Austria,46130,5500,loser
+1335,414,Bavaria,46130,5500,loser
+1336,415,French Republic,40000,3000,winner
+1337,415,Great Britain,24000,4000,loser
+1338,415,Hanover,24000,4000,loser
+1339,415,Hesse-Kassel,24000,4000,loser
+1340,416,Royalists,1200,,tied
+1341,416,Parliamentarians,1400,,tied
+1342,417,South Vietnam,15000,452,winner
+1343,417,United States,15000,452,winner
+1344,417,North Vietnam,7000,2400,loser
+1345,417,Viet Cong,7000,2400,loser
+1346,418,Republic of China,200000,5890,unknown
+1347,418,Chinese Communist Party,200000,5890,unknown
+1348,418,Empire of Japan,270000,12645,unknown
+1349,418,Wang Jingwei regime,270000,12645,unknown
+1350,419,Macedonian Empire,40000,700,unknown
+1351,419,Hellenic League,40000,700,unknown
+1352,419,Gandhara,40000,700,unknown
+1353,419,Pauravas,50000,12000,unknown
+1354,420,French Empire,40000,12600,winner
+1355,420,Prussia,55000,41000,loser
+1356,420,Saxony,55000,41000,loser
+1357,421,Roman Republic,48000,7000,unknown
+1358,421,Carthage,74000,48500,unknown
+1359,422,Ukraine,1300,366,loser
+1360,422,Donetsk People's Republic,4050,150,winner
+1361,422,Russia,4050,150,winner
+1362,423,United Kingdom,15700,4373,winner
+1363,423,France,15700,4373,winner
+1364,423,Russia,35000,11959,loser
+1365,424,British Empire,104,80,unknown
+1366,424,Zulu Kingdom,650,,unknown
+1367,425,Lordship of the Isles,,,unknown
+1368,425,Scottish Crown,,900,unknown
+1369,426,Royalists,1500,,unknown
+1370,426,Irish Brigade,1500,,unknown
+1371,426,Covenanters,2750,1500,unknown
+1372,427,Tang dynasty,10000,,unknown
+1373,427,Former vassals of the Western Turks,10000,,unknown
+1374,427,Western Turkic Khaganate,100000,,unknown
+1375,428,Hungarian Revolutionary Army,14258,1000,unknown
+1376,428,Polish Legion,14258,1000,unknown
+1377,428,Austrian Empire,26000,373,unknown
+1378,428,Kingdom of Croatia,26000,373,unknown
+1379,429,Macedonian Empire,24000,150,unknown
+1380,429,Hellenic League,24000,150,unknown
+1381,429,Achaemenid Empire,40000,30000,unknown
+1382,430,Empire of Brazil,6300,200,loser
+1383,430,United Provinces,7700,147,winner
+1384,431,United States,,15,winner
+1385,431,Japan,,867,loser
+1386,432,Rashidun Caliphate,17000,,winner
+1387,432,Byzantine Empire,17500,,loser
+1388,432,Christian Arabs,17500,,loser
+1389,433,United States,,261,tied
+1390,433,Confederate States,,7,tied
+1391,434,British Empire,1837,1300,unknown
+1392,434,Zulu Empire,20000,3000,unknown
+1393,435,Heruls,20000,,unknown
+1394,435,Scirians,20000,,unknown
+1395,435,Ostrogoths,10000,,unknown
+1396,435,Rugians,10000,,unknown
+1397,436,Italy,,645000,tied
+1398,436,Austria-Hungary,,450000,tied
+1399,436,Germany,,450000,tied
+1400,437,United Nations,,141,unknown
+1401,437,United Kingdom,,141,unknown
+1402,437,Belgium,,141,unknown
+1403,437,Luxembourg,,141,unknown
+1404,437,Philippines South Korea,,141,unknown
+1405,437,China,,25000,unknown
+1406,438,United States,,309,unknown
+1407,438,Confederate States,,525,unknown
+1408,439,United States,,,loser
+1409,439,Confederate States of America,400,,winner
+1410,440,Sweden,16000,4000,unknown
+1411,440,Holy Roman Empire,16000,4000,unknown
+1412,441,Spanish Republic,30000,20000,tied
+1413,441,International Brigades,30000,20000,tied
+1414,441,Nationalist Spain,40000,20000,tied
+1415,441,Irish Brigade Germany,40000,20000,tied
+1416,442,Netherlands,,2300,loser
+1417,442,United States,,2300,loser
+1418,442,United Kingdom,,2300,loser
+1419,442,Australia,,2300,loser
+1420,442,Japan,,36,winner
+1421,443,Ottoman Empire,,,unknown
+1422,443,Emirate of Diriyah,,,unknown
+1423,444,France,42500,2000,winner
+1424,444,Holy Roman Empire,13498,1370,loser
+1425,445,French Empire,40000,12600,winner
+1426,445,Prussia,55000,41000,loser
+1427,445,Saxony,55000,41000,loser
+1428,446,Republic of China Army,104296,22423,unknown
+1429,446,People's Liberation Army,140000,26000,unknown
+1430,447,United Kingdom,,,tied
+1431,447,Germany,,,tied
+1432,448,British Empire,,,unknown
+1433,448,East India Company,,,unknown
+1434,448,Emirate of Kabul,,,unknown
+1435,449,New Kingdom of Egypt,16000,,tied
+1436,449,Hittite Empire,40000,2000,tied
+1437,450,Katipunan,6000,1000,winner
+1438,450,Kakarong Republic,6000,1000,winner
+1439,450,Spain,600,24,loser
+1440,451,British Empire,2086,29,winner
+1441,451,Zulu Kingdom,20000,2000,loser
+1442,452,United Kingdom,1300,150,loser
+1443,452,Malaya,1300,150,loser
+1444,452,Japan,9000,500,winner
+1445,453,Sur Empire,5000,,unknown
+1446,453,Mughal Empire,100000,,unknown
+1447,454,United Nations,2000,32,winner
+1448,454,South Korea,2000,32,winner
+1449,454,United States,2000,32,winner
+1450,454,United Kingdom,2000,32,winner
+1451,454,Australia,2000,32,winner
+1452,454,Canada,2000,32,winner
+1453,454,New Zealand,2000,32,winner
+1454,454,North Korea,20000,6000,loser
+1455,454,China,20000,6000,loser
+1456,455,Neo-Assyrian Empire,20000,,unknown
+1457,455,12 Kings alliance:,63000,,unknown
+1458,455,Hama,63000,,unknown
+1459,455,Israel,63000,,unknown
+1460,455,Aram-Damascus,63000,,unknown
+1461,455,Ammon,63000,,unknown
+1462,455,Qedar,63000,,unknown
+1463,455,Arwad,63000,,unknown
+1464,455,Quwê,63000,,unknown
+1465,455,Irqanata,63000,,unknown
+1466,455,Shianu,63000,,unknown
+1467,456,Umayyad Caliphate,7000,,unknown
+1468,456,Principality of Juzjan,7000,,unknown
+1469,456,Türgesh Khaganate,4000,,unknown
+1470,456,Sogdian princes of Transoxiana,4000,,unknown
+1471,457,Hawaiʻi Island,6500,,tied
+1472,457,Maui,3000,,tied
+1473,458,Coalition,,43,winner
+1474,458,United States,,43,winner
+1475,458,Saudi Arabia,,43,winner
+1476,458,Qatar,,43,winner
+1477,458,Kuwait,,43,winner
+1478,458,Iraq,,71,loser
+1479,459,Mahdist State,50000,,unknown
+1480,459,Khedivate of Egypt,7000,,unknown
+1481,459,Supported by:,7000,,unknown
+1482,459,British Empire,7000,,unknown
+1483,460,Transitional Sovereignty Council,,,unknown
+1484,460,Sudanese Armed Forces Al-Bara' ibn Malik Battalion Angry Without Borders,,,unknown
+1485,460,Rapid Support Forces,104,,unknown
+1486,461,Pechenegs,,,loser
+1487,461,Kievan Rus',,,winner
+1488,463,Kievan Rus',,,unknown
+1489,463,Duchy of Poland,,,unknown
+1490,465,Iziaslavichi of Volhynia :,,,unknown
+1491,465,Principality of Kiev,,,unknown
+1492,465,Principality of Volhynia,,,unknown
+1493,465,Novgorod Republic,,,unknown
+1494,465,Principality of Halych,,,unknown
+1495,465,Coalition:,,,unknown
+1496,465,Yurievichi of Suzdalia,,,unknown
+1497,465,Olgovichi of Chernigov,,,unknown
+1498,465,Rostislavichi of Smolensk,,,unknown
+1499,467,Mongol Empire,,,unknown
+1500,467,Galicia–Volhynia,1000,48000,unknown
+1501,469,Ukrainian People's Republic,,,unknown
+1502,469,Polish Military Organisation,,,unknown
+1503,469,Bolsheviks,,,unknown
+1504,469,Red Guards,,,unknown
+1505,470,Ukrainian People's Republic,2000,,unknown
+1506,470,Russian SFSR,7000,,unknown
+1507,471,Ukrainian Front,,,unknown
+1508,471,1st Ukrainian Soviet Army,,,unknown
+1509,471,Ukrainian People's Republic,,,unknown
+1510,472,Communists,,,unknown
+1511,472,Russian SFSR,,,unknown
+1512,472,Ukrainian SSR,,,unknown
+1513,472,Russian anticommunists,3000,,unknown
+1514,472,South Russia,3000,,unknown
+1515,473,Red Army,,,unknown
+1516,473,White Army,,,unknown
+1517,474,Poland,64000,,unknown
+1518,474,Ukrainian People's Republic,64000,,unknown
+1519,474,Russian SFSR,50000,,unknown
+1520,474,Ukrainian SSR,50000,,unknown
+1521,475,Germany,25,128670,loser
+1522,475,Russia,627000,700544,winner
+1523,476,Russia,730000,28141,unknown
+1524,476,Czechoslovakia,730000,28141,unknown
+1525,476,Germany,276978,2628,unknown
+1526,477,Covenanters,5100,2000,unknown
+1527,477,Jacobites,3000,700,unknown
+1528,478,United Kingdom,1600,42,winner
+1529,478,South African Republic,4750,,loser
+1530,478,Orange Free State,4750,,loser
+1531,479,United States,900,,winner
+1532,479,Great Britain,1105,,loser
+1533,481,Poland–Lithuania,1000,100,unknown
+1534,481,Duchy of Courland,1000,100,unknown
+1535,481,Sweden,8368,6750,unknown
+1536,482,Byzantine Empire,,,unknown
+1537,482,Bulgarian Empire,,15000,unknown
+1538,483,Poland–Lithuania,6650,300,unknown
+1539,483,Russia,10000,5000,unknown
+1540,483,Sweden,10000,5000,unknown
+1541,484,Parliamentarians,6000,1000,unknown
+1542,484,Confederates,7000,3000,unknown
+1543,485,Kamakura Japan,50000,,loser
+1544,485,Yuan dynasty,142000,25000,winner
+1545,485,Goryeo,142000,25000,winner
+1546,486,Austria,53895,8050,winner
+1547,486,Prussia,33500,13866,loser
+1548,487,Serbia,400000,132000,winner
+1549,487,Austria-Hungary,450000,273000,loser
+1550,488,Prussia,220984,9172,winner
+1551,488,Austria,210500,43000,loser
+1552,488,Saxony,210500,43000,loser
+1553,489,Abbasid Caliphate,,,unknown
+1554,489,Byzantine Empire,,,unknown
+1555,490,Ottoman Empire Supported by:,28500,,tied
+1556,491,Ottoman Empire,55000,19000,unknown
+1557,491,Karamanids,55000,19000,unknown
+1558,491,Kingdom of Hungary,40000,11500,unknown
+1559,491,Holy Roman Empire,40000,11500,unknown
+1560,491,Kingdom of Bohemia,40000,11500,unknown
+1561,491,Moldavia,40000,11500,unknown
+1562,491,Grand Duchy of Lithuania,40000,11500,unknown
+1563,491,Wallachia,40000,11500,unknown
+1564,492,Germany,,,unknown
+1565,492,Austria-Hungary,,,unknown
+1566,492,Bulgaria,,,unknown
+1567,492,Serbia,130000,,unknown
+1568,493,British Empire :,,68,loser
+1569,493,United Kingdom,,68,loser
+1570,493,India Australia New Zealand,,68,loser
+1571,493,Empire of Japan,3,320,winner
+1572,494,Abbasid Caliphate,,,unknown
+1573,494,Byzantine Empire,,,unknown
+1574,495,Ottoman Empire,9000,1000,unknown
+1575,495,Kingdom of Croatia,8000,7000,unknown
+1576,496,Xin dynasty,430000,,unknown
+1577,496,Lulin,10000,,unknown
+1578,497,Germany,2110,,unknown
+1579,497,Russia,2792,,unknown
+1580,498,United Kingdom,35000,,unknown
+1581,498,Ottoman Empire,52500,10000,unknown
+1582,499,United States,46670,142,winner
+1583,499,Japan,5000,4300,loser
+1584,500,Toyotomi clan,200000,,unknown
+1585,500,Ōtomo clan,200000,,unknown
+1586,500,Chōsokabe clan,200000,,unknown
+1587,500,Mōri clan,200000,,unknown
+1588,500,Shimazu clan,30000,,unknown
+1589,500,Akizuki clan,30000,,unknown
+1590,501,Russia,30000,,unknown
+1591,501,Ukraine,18000,162,unknown
+1592,502,United Kingdom,13500,2000,unknown
+1593,502,France,13500,2000,unknown
+1594,502,Ottoman Empire,,2378,unknown
+1595,503,British Empire,25000,6500,unknown
+1596,503,New Zealand,25000,6500,unknown
+1597,503,Australia,25000,6500,unknown
+1598,503,United Kingdom France,25000,6500,unknown
+1599,503,Ottoman Empire,20000,2000,unknown
+1600,504,British Empire,30000,4500,unknown
+1601,504,India,30000,4500,unknown
+1602,504,United Kingdom France,30000,4500,unknown
+1603,504,Ottoman Empire,23300,3000,unknown
+1604,505,United Kingdom,,4120,unknown
+1605,505,Ottoman Empire,,7510,unknown
+1606,506,France,25000,3000,unknown
+1607,506,Republic of Venice,25000,3000,unknown
+1608,506,Swiss mercenaries,25000,3000,unknown
+1609,507,Ionia,353,246,unknown
+1610,507,Achaemenid Empire,600,57,unknown
+1611,508,England,39000,5000,unknown
+1612,508,Dutch Republic,39000,5000,unknown
+1613,508,France,21000,5000,unknown
+1614,509,United States,540,,winner
+1615,509,United Kingdom,,,loser
+1616,510,Abbasid Caliphate,,,unknown
+1617,510,Emirate of Melitene,,,unknown
+1618,510,Paulician principality of Tephrike,,,unknown
+1619,510,Byzantine Empire,,,unknown
+1620,511,France,44500,6250,unknown
+1621,511,Prussia,95000,3750,unknown
+1622,511,Russia,95000,3750,unknown
+1623,512,Kingdom of Scotland,,,tied
+1624,512,Norway,,,tied
+1625,513,Great Britain,80000,6000,winner
+1626,513,Dutch Republic,80000,6000,winner
+1627,513,Habsburg monarchy,80000,6000,winner
+1628,513,Hanover,80000,6000,winner
+1629,513,France,82000,5000,loser
+1630,514,German Empire,18,2900,loser
+1631,514,United Kingdom,12,700,winner
+1632,515,Principality of Hungary,10000,,winner
+1633,516,Lombard League,12000,,winner
+1634,516,Holy Roman Empire,3000,,loser
+1635,517,Russia,16,67000,unknown
+1636,517,Austria,16,67000,unknown
+1637,517,Prussia,16,67000,unknown
+1638,517,Sweden,16,67000,unknown
+1639,517,Mecklenburg-Schwerin,16,67000,unknown
+1640,517,Saxony,16,67000,unknown
+1641,517,Wurttemberg,16,67000,unknown
+1642,517,United Kingdom,16,67000,unknown
+1643,518,France,7000,1500,winner
+1644,518,Spain,9000,3000,loser
+1645,519,Republic of Venice,,,unknown
+1646,519,Ottoman Empire,260,,unknown
+1647,520,Republic of Venice,,,unknown
+1648,520,Ottoman Empire,,,unknown
+1649,521,Holy League ： Republic of Venice Spanish Empire,65000,10000,unknown
+1650,521,Kingdom of Naples,65000,10000,unknown
+1651,521,Kingdom of Sicily,65000,10000,unknown
+1652,521,Kingdom of Sardinia,65000,10000,unknown
+1653,521,Duchy of Parma Republic of Genoa Duchy of Savoy Grand Duchy of Tuscany Order of St. John Papal States,65000,10000,unknown
+1654,521,Ottoman Empire,67000,25000,unknown
+1655,521,Regency of Algiers,67000,25000,unknown
+1656,522,Swedish Empire,12500,3800,unknown
+1657,522,Tsardom of Russia,17000,3967,unknown
+1658,522,Cossack Hetmanate,17000,3967,unknown
+1659,522,Kalmyk Khanate,17000,3967,unknown
+1660,523,Prussia,36000,1141,winner
+1661,523,Austria,65000,3000,loser
+1662,524,East Francia,,,unknown
+1663,524,Vikings,,16,unknown
+1664,525,Royal forces,10000,2700,unknown
+1665,525,Baronial forces,5000,,unknown
+1666,526,Massachusetts Bay,3960,49,winner
+1667,526,Great Britain,1500,73,loser
+1668,527,United States,200000,3504,winner
+1669,527,Commonwealth of the Philippines Australia,200000,3504,winner
+1670,527,Japan,70100,65000,loser
+1671,527,Republic of the Philippines,70100,65000,loser
+1672,528,United States,,,winner
+1673,528,Australia,,,winner
+1674,528,Japan,,,loser
+1675,529,Empire of Japan,127360,5537,loser
+1676,529,Russian Empire,245300,3611,winner
+1677,530,France,62882,12000,winner
+1678,530,Prussia,83417,16000,loser
+1679,531,House of Blois,1250,,unknown
+1680,531,House of Anjou,1000,,unknown
+1681,532,Kingdom of England,317,,unknown
+1682,532,Kingdom of France,1000,300,unknown
+1683,532,Army of God and the Holy Church,1000,300,unknown
+1684,533,English Parliamentarians,3000,,unknown
+1685,533,Royalists,5000,1500,unknown
+1686,533,Scots Covenanters,5000,1500,unknown
+1687,534,Austria,,176,winner
+1688,534,Italy,4,700,loser
+1689,535,Great Britain,200,10,unknown
+1690,535,Two Independent Highland Companies drawn from:,200,10,unknown
+1691,535,Clan Mackay,200,10,unknown
+1692,535,Clan Sutherland,200,10,unknown
+1693,535,Or three companies of Sutherland local militia,200,10,unknown
+1694,535,Clan Mackenzie,500,100,unknown
+1695,535,Clan MacGregor,500,100,unknown
+1696,535,Clan Mackinnon,500,100,unknown
+1697,536,Lakota,1800,,winner
+1698,536,Dakota,1800,,winner
+1699,536,Northern Cheyenne,1800,,winner
+1700,536,Arapaho,1800,,winner
+1701,537,German Empire,380000,36000,unknown
+1702,537,Austria-Hungary,380000,36000,unknown
+1703,537,Russian Empire,367000,110000,unknown
+1704,537,Congress Poland,367000,110000,unknown
+1705,538,British Empire,,2277,winner
+1706,538,Australia,,2277,winner
+1707,538,New Zealand,,2277,winner
+1708,538,Ottoman Empire,3,6000,loser
+1709,539,Indonesia,200,33,unknown
+1710,539,United Kingdom,,13,unknown
+1711,539,Malaysia,,13,unknown
+1712,540,India,120,5,winner
+1713,540,Pakistan,1,300,loser
+1714,541,Royalists,12000,500,unknown
+1715,541,Parliamentarians,6500,5000,unknown
+1716,542,England,22055,500,unknown
+1717,542,Dutch Republic,21613,2500,unknown
+1718,543,Polish–Lithuanian Commonwealth,6000,,unknown
+1719,543,Crimean Khanate,6000,,unknown
+1720,543,Swedish Empire,1500,1470,unknown
+1721,544,China,900,96,unknown
+1722,544,Japan,5600,660,unknown
+1723,544,East Hebei,5600,660,unknown
+1724,545,Scottish Crown,,,loser
+1725,545,Rebels,,,winner
+1726,546,United Kingdom,3500,84,tied
+1727,546,Upper Canada,3500,84,tied
+1728,546,United States,2500,174,tied
+1729,547,Roman Republic,2000,,unknown
+1730,547,Gallic coalition forces :,,,unknown
+1731,547,Parisii,,,unknown
+1732,547,Senones,,,unknown
+1733,547,Aulerci,,,unknown
+1734,548,Denmark–Norway,16000,3000,unknown
+1735,548,Holy Roman Empire,17000,700,unknown
+1736,548,Catholic League,17000,700,unknown
+1737,549,Holy Roman Empire,19175,5160,unknown
+1738,549,Catholic League,19175,5160,unknown
+1739,549,Sweden,18738,6000,unknown
+1740,549,Saxony,18738,6000,unknown
+1741,549,Hesse-Kassel,18738,6000,unknown
+1742,550,France,111500,20827,winner
+1743,550,Kingdom of Italy,111500,20827,winner
+1744,550,Hesse,111500,20827,winner
+1745,550,Russia,83000,20750,loser
+1746,550,Prussia,83000,20750,loser
+1747,551,Philippine Republic,300,11,unknown
+1748,551,United States,15,21,unknown
+1749,552,Kedatuan of Mactan,1500,15,unknown
+1750,552,Spanish Empire,60,12,unknown
+1751,552,Rajahnate of Cebu,60,12,unknown
+1752,553,United Kingdom,15000,107,winner
+1753,553,India,15000,107,winner
+1754,553,Northern Rhodesia,15000,107,winner
+1755,553,Southern Rhodesia South Africa Naval only: Australia Netherlands Poland,15000,107,winner
+1756,553,Vichy France,8000,152,loser
+1757,553,Madagascar Naval only: Japan,8000,152,loser
+1758,554,Holy Roman Empire,24000,300,unknown
+1759,554,Catholic League,24000,300,unknown
+1760,554,Magdeburg,2400,25000,unknown
+1761,555,British Empire,6000,,winner
+1762,555,United Kingdom,6000,,winner
+1763,555,India,6000,,winner
+1764,555,Australia,6000,,winner
+1765,555,New Zealand,6000,,winner
+1766,555,Ottoman Empire,2000,,loser
+1767,556,France,49945,707,unknown
+1768,556,Sardinia,49945,707,unknown
+1769,556,Austria,58183,1368,unknown
+1770,557,United Kingdom,14964,948,unknown
+1771,557,South African Republic,8500,236,unknown
+1772,557,Orange Free State,8500,236,unknown
+1773,559,British Empire,2476,1200,unknown
+1774,559,India,2476,1200,unknown
+1775,559,Emirate of Afghanistan,25000,2000,unknown
+1776,560,Transvaal,400,2,unknown
+1777,560,United Kingdom,405,92,unknown
+1778,561,First Philippine Republic,200,1,unknown
+1779,561,United States,40,10,unknown
+1780,562,French Empire,70500,5000,winner
+1781,562,Russian Empire,59500,1500,loser
+1782,563,England,,,unknown
+1783,563,Vikings,4000,,unknown
+1784,564,Dutch Republic,86000,22000,unknown
+1785,564,Great Britain,86000,22000,unknown
+1786,564,Holy Roman Empire,86000,22000,unknown
+1787,564,France,75000,11000,unknown
+1788,565,Spanish Empire,300,0,unknown
+1789,565,New Spain,300,0,unknown
+1790,565,Spanish Philippines,300,0,unknown
+1791,565,Chinese pirates,4000,400,unknown
+1792,565,Wokou,4000,400,unknown
+1793,566,Great Britain,10300,147,winner
+1794,566,Spain,9356,100,loser
+1795,567,United States,10700,19,winner
+1796,567,Revolutionary Government of the Philippines,10700,19,winner
+1797,567,Spain,13000,49,loser
+1798,567,Captaincy General of the Philippines,13000,49,loser
+1799,568,United States,19000,55,winner
+1800,568,United States Military Government of the Philippine Islands,19000,55,winner
+1801,568,Philippine Republic,40000,238,loser
+1802,569,United States,35000,1010,winner
+1803,569,Commonwealth of the Philippines,35000,1010,winner
+1804,569,Japan,4500,16000,loser
+1805,569,Republic of the Philippines,4500,16000,loser
+1806,570,United States,,1,winner
+1807,570,Spain,,77,loser
+1808,572,Sparta,9200,300,winner
+1809,572,Tegea,9200,300,winner
+1810,572,Heraea,9200,300,winner
+1811,572,Maenalia,9200,300,winner
+1812,572,Other Arcadian allies of Sparta,9200,300,winner
+1813,572,Argos,4500,1300,loser
+1814,572,Athens,4500,1300,loser
+1815,572,Mantinea,4500,1300,loser
+1816,572,Other Arcadian allies of Argos,4500,1300,loser
+1817,573,Thebes,30000,6000,tied
+1818,573,Boeotian League,30000,6000,tied
+1819,573,Tegea,30000,6000,tied
+1820,573,Arcadian allies of Tegea,30000,6000,tied
+1821,573,Argos,30000,6000,tied
+1822,573,Thessalian allies of Thebes,30000,6000,tied
+1823,573,Messene,30000,6000,tied
+1824,573,Euboeans,30000,6000,tied
+1825,573,Sicyon,30000,6000,tied
+1826,573,Locrain allies of Thebes,30000,6000,tied
+1827,573,Aenianians,30000,6000,tied
+1828,573,Malians,30000,6000,tied
+1829,573,Sparta,20000,12000,tied
+1830,573,Athens,20000,12000,tied
+1831,573,Elis,20000,12000,tied
+1832,573,Mantineia,20000,12000,tied
+1833,573,Achaeans,20000,12000,tied
+1834,573,Arcadians loyal to Sparta,20000,12000,tied
+1835,574,Byzantine Empire,,,unknown
+1836,574,Regulars and provincial troops,,,unknown
+1837,574,Feudal levies of frontier land owners.,,,unknown
+1838,574,"Latin, Georgian, Armenian, Bulgarian, Turkic mercenaries",,,unknown
+1839,574,Seljuk Empire,42500,,unknown
+1840,574,Turkic mercenaries,42500,,unknown
+1841,575,Athens,11000,192,unknown
+1842,575,Plataea,11000,192,unknown
+1843,575,Achaemenid Empire,,5000,unknown
+1844,576,Philippines,3000,168,unknown
+1845,576,Islamic State,1000,978,unknown
+1846,577,French Republic,22000,1100,winner
+1847,577,Habsburg monarchy,30000,6000,loser
+1848,578,Kingdom of England,2500,,unknown
+1849,578,Kingdom of France,2500,126,unknown
+1850,578,Crown of Castile,2500,126,unknown
+1851,578,County of Flanders,2500,126,unknown
+1852,579,Kingdom of France,30000,5000,unknown
+1853,579,Venice,30000,5000,unknown
+1854,579,Old Swiss Confederacy,22200,10000,unknown
+1855,579,Milan,22200,10000,unknown
+1856,580,United States,,14,winner
+1857,580,Philippine Republic,5000,90,loser
+1858,581,United Kingdom,,17200,unknown
+1859,581,United States,,17200,unknown
+1860,581,Canada,,17200,unknown
+1861,581,Poland,,17200,unknown
+1862,581,Netherlands,,17200,unknown
+1863,581,Belgium,,17200,unknown
+1864,581,Germany,100000,13300,unknown
+1865,582,al Nusra Front,,,unknown
+1866,582,Islamic State of Iraq and the Levant,,,unknown
+1867,582,al-Barakah Province Katiba al-Bittar al-Libi,,,unknown
+1868,583,France,1080,250000,winner
+1869,583,United Kingdom,1080,250000,winner
+1870,583,Germany,825000,74849,loser
+1871,584,Entente Powers :,408,95165,unknown
+1872,584,France,408,95165,unknown
+1873,584,United States,408,95165,unknown
+1874,584,United Kingdom,408,95165,unknown
+1875,584,Italy,408,95165,unknown
+1876,584,Russia,408,95165,unknown
+1877,584,Siam,408,95165,unknown
+1878,584,Central Powers :,1047,168000,unknown
+1879,584,German Empire,1047,168000,unknown
+1880,585,Sultan's forces,,,unknown
+1881,585,Abd al-Hafid's forces,,,unknown
+1882,586,Parliamentarians,24500,300,unknown
+1883,586,Covenanters,24500,300,unknown
+1884,586,Royalists,17500,4000,unknown
+1885,587,Germany,244391,1555,loser
+1886,587,Russian Empire,150000,125000,winner
+1887,588,Germany,250000,20000,loser
+1888,588,Russia,126000,56000,winner
+1889,589,Russian Empire,33000,141,unknown
+1890,589,Ottoman Empire,72000,4000,unknown
+1891,590,Abbasid Caliphate,,,unknown
+1892,590,Emirate of Melitene,,,unknown
+1893,590,Byzantine Empire,,,unknown
+1894,591,Ottoman Empire,1500,,unknown
+1895,591,Emirate of Diriyah,,,unknown
+1896,592,French Empire,13000,1000,winner
+1897,592,Spain,20000,8000,loser
+1898,593,Ottoman Empire,20000,50,unknown
+1899,593,Egypt Eyalet,20000,50,unknown
+1900,593,Emirate of Diriyah,7000,4000,unknown
+1901,594,Irish Confederates,4000,1000,unknown
+1902,594,Parliamentarians,3000,,unknown
+1903,595,Noble coalition,2000,,unknown
+1904,595,Peasant Jacques army,4500,,unknown
+1905,596,Egyptian Empire,10800,,winner
+1906,597,Twenty-sixth Dynasty of Egypt,,,unknown
+1907,597,Kingdom of Judah,,,unknown
+1908,598,British Empire,,,winner
+1909,598,United Kingdom,,,winner
+1910,598,India,,,winner
+1911,598,Australia,,,winner
+1912,598,New Zealand,,,winner
+1913,598,South Africa Hejaz France,,,winner
+1914,598,Ottoman Empire,,,loser
+1915,598,German Empire,,,loser
+1916,599,Electorate of Bavaria,4300,600,unknown
+1917,599,Kingdom of France,6000,4400,unknown
+1918,600,Frederick II,,,unknown
+1919,600,Kingdom of Sicily,,,unknown
+1920,600,Republic of Pisa,,,unknown
+1921,601,Republic of Genoa,88,,unknown
+1922,601,Republic of Pisa,72,5000,unknown
+1923,603,Bombay Army of the East India Company,2800,256,unknown
+1924,603,Talpur Dynasty,30000,2000,unknown
+1925,604,United States,,,winner
+1926,604,Japan,,,loser
+1927,605,Constantinian forces,22500,,unknown
+1928,605,Maxentian forces,25000,,unknown
+1929,606,Ashikaga clan,35000,,unknown
+1930,606,Imperial loyalist forces,17500,,unknown
+1931,607,United States,60000,221,winner
+1932,607,Commonwealth of the Philippines,60000,221,winner
+1933,607,Japan,65000,6400,loser
+1934,607,Second Philippine Republic,65000,6400,loser
+1935,608,United States,10000,151,winner
+1936,608,Commonwealth of the Philippines,10000,151,winner
+1937,608,Japan,1200,200,loser
+1938,608,Second Philippine Republic,1200,200,loser
+1939,609,Great Britain,37000,2762,loser
+1940,609,Hanover,37000,2762,loser
+1941,609,Hesse-Kassel,37000,2762,loser
+1942,609,Brunswick-Wolfenbüttel,37000,2762,loser
+1943,609,Schaumburg-Lippe,37000,2762,loser
+1944,609,France,44000,7000,winner
+1945,609,Saxony,44000,7000,winner
+1946,610,United Kingdom,25,2,winner
+1947,610,Oman,25,2,winner
+1948,610,PFLOAG,250,80,loser
+1949,611,Spain,190,14,unknown
+1950,611,Great Britain,,18,unknown
+1951,611,Waldeck,,18,unknown
+1952,611,Choctaw,,18,unknown
+1953,612,United States,5500,,unknown
+1954,612,Confederate States,,,unknown
+1955,613,United Kingdom,8000,72,winner
+1956,613,South African Republic,2850,75,loser
+1957,613,Orange Free State,2850,75,loser
+1958,614,Republican France,52000,3000,winner
+1959,614,Habsburg Austria,48000,2400,loser
+1960,615,United Nations,3000,18,tied
+1961,615,United States,3000,18,tied
+1962,615,Malaysia,3000,18,tied
+1963,615,Pakistan,3000,18,tied
+1964,615,Somali National Alliance,1500,200,tied
+1965,615,Al-Itihaad al-Islamiya,1500,200,tied
+1966,616,Ottoman Empire,100000,2000,unknown
+1967,616,Supported by:,100000,2000,unknown
+1968,616,Crimean Khanate,100000,2000,unknown
+1969,616,Kingdom of Hungary,25000,24000,unknown
+1970,616,Supported by:,25000,24000,unknown
+1971,616,Serbian Despotate,25000,24000,unknown
+1972,616,Lands of the Bohemian Crown,25000,24000,unknown
+1973,616,Holy Roman Empire,25000,24000,unknown
+1974,616,Papal States,25000,24000,unknown
+1975,616,Hungarian Slovenes,25000,24000,unknown
+1976,617,Prussia,21600,4850,winner
+1977,617,Austria,17400,4550,loser
+1978,618,United States,14300,370,tied
+1979,618,Great Britain,17660,1134,tied
+1980,619,United States,5800,1294,loser
+1981,619,Confederate States,14000,800,winner
+1982,620,France,637,39,unknown
+1983,620,New France,637,39,unknown
+1984,620,Ottawas,637,39,unknown
+1985,620,Abenaki,637,39,unknown
+1986,620,Lenni Lenape,637,39,unknown
+1987,620,Hurons,637,39,unknown
+1988,620,Potawatomis,637,39,unknown
+1989,620,Ojibwa,637,39,unknown
+1990,620,Great Britain,1300,457,unknown
+1991,620,British America,1300,457,unknown
+1992,621,United Kingdom,,1638,unknown
+1993,621,German Empire,,3500,unknown
+1994,622,Romano-Britons,,,unknown
+1995,622,Celtic Britons,,,unknown
+1996,622,Anglo-Saxons,,,unknown
+1997,622,and possibly also Jutes and other Germanic tribes.,,,unknown
+1998,623,Roman Empire,23500,360,unknown
+1999,623,Caledonian Confederacy,22500,10000,unknown
+2000,624,United Kingdom,240000,55000,winner
+2001,624,India,240000,55000,winner
+2002,624,Newfoundland United States Free France Poland Canada New Zealand South Africa Italy,240000,55000,winner
+2003,624,Germany,140000,20000,loser
+2004,625,France,75,3000,winner
+2005,625,Austria,16500,6000,loser
+2006,625,Wurttemberg,16500,6000,loser
+2007,626,France,22500,2050,winner
+2008,626,Russia,33000,17,loser
+2009,626,Prussia,33000,17,loser
+2010,627,France,19000,700,winner
+2011,627,Austria,6650,2757,loser
+2012,627,Bavaria,6650,2757,loser
+2013,627,Russia,6650,2757,loser
+2014,628,Germany,1941,1941,winner
+2015,628,Russia,1941,1941,loser
+2016,629,British Empire,,6300,winner
+2017,629,Australia,,6300,winner
+2018,629,Canada,,6300,winner
+2019,629,United Kingdom,,6300,winner
+2020,629,German Empire,,73,loser
+2021,630,Mongol Empire,22500,,unknown
+2022,630,Kingdom of Hungary,80000,10000,unknown
+2023,630,Kingdom of Croatia,80000,10000,unknown
+2024,630,Knights Templar Minor belligerent:,80000,10000,unknown
+2025,630,Duchy of Austria,80000,10000,unknown
+2026,631,Schmalkaldic League :,6000,8000,unknown
+2027,631,Electorate of Saxony,6000,8000,unknown
+2028,631,Hesse,6000,8000,unknown
+2029,631,Electoral Palatinate,6000,8000,unknown
+2030,631,Bremen,6000,8000,unknown
+2031,631,Lübeck,6000,8000,unknown
+2032,631,Brunswick-Lüneburg,6000,8000,unknown
+2033,631,Duchy of Pomerania,6000,8000,unknown
+2034,631,Principality of Anhalt-Köthen,6000,8000,unknown
+2035,631,Other German territories,6000,8000,unknown
+2036,631,Empire of Charles V :,13000,50,unknown
+2037,631,Holy Roman Empire,13000,50,unknown
+2038,631,Duchy of Saxony,13000,50,unknown
+2039,631,Spain,13000,50,unknown
+2040,631,Hungary,13000,50,unknown
+2041,632,Greek city-states,,,unknown
+2042,632,Sparta,,,unknown
+2043,632,Athens,,,unknown
+2044,632,Corinth,,,unknown
+2045,632,Sicyon,,,unknown
+2046,632,Troezen,,,unknown
+2047,632,Achaemenid Empire,,,unknown
+2048,633,Byzantine Empire,32500,,unknown
+2049,633,Hungary,32500,,unknown
+2050,633,Principality of Antioch,32500,,unknown
+2051,633,Grand Principality of Serbia,32500,,unknown
+2052,633,Sultanate of Rum,,,unknown
+2053,634,Roman Empire,,,unknown
+2054,634,Goths,,,unknown
+2055,635,Wallachia,30000,5000,tied
+2056,635,Ottoman Empire,90000,12500,tied
+2057,636,China,100000,20000,loser
+2058,636,Supported by:,100000,20000,loser
+2059,636,Russia,100000,20000,loser
+2060,636,Japan,200000,26000,winner
+2061,637,Yunnan Army,,,unknown
+2062,637,Supported by: Nationalist government,,,unknown
+2063,637,New Guangxi clique army,,,unknown
+2064,638,Italy,800,,unknown
+2065,638,Slovene Partisans,54,10,unknown
+2066,639,Chalukya dynasty,,,unknown
+2067,639,Pushyabhuti dynasty,,,unknown
+2068,640,Parliamentarians,6000,400,unknown
+2069,640,Royalists,4100,1000,unknown
+2070,641,United States,55000,387,unknown
+2071,641,Confederate States,26000,1500,unknown
+2072,642,Athens,,,unknown
+2073,642,Korinth,77,,unknown
+2074,642,Sparta,77,,unknown
+2075,643,British Empire,,181,winner
+2076,643,Royal Navy,,181,winner
+2077,643,Russian Empire,,181,winner
+2078,643,Imperial Russian Navy,,181,winner
+2079,643,Kingdom of France,,181,winner
+2080,643,French Navy,,181,winner
+2081,644,Kingdom of Castile,13000,2000,unknown
+2082,644,Order of Santiago,13000,2000,unknown
+2083,644,Order of Calatrava,13000,2000,unknown
+2084,644,Crown of Aragon,13000,2000,unknown
+2085,644,Kingdom of Navarre,13000,2000,unknown
+2086,644,Knights Templar,13000,2000,unknown
+2087,644,León volunteers Portuguese volunteers,13000,2000,unknown
+2088,644,Crusaders,13000,2000,unknown
+2089,644,Almohad Caliphate,26000,20000,unknown
+2090,645,France,70000,10000,winner
+2091,645,Dutch Republic,90,9500,loser
+2092,645,England,90,9500,loser
+2093,645,Holy Roman Empire,90,9500,loser
+2094,645,Spain,90,9500,loser
+2095,645,Scotland,90,9500,loser
+2096,646,Ottoman Empire,8000,4700,unknown
+2097,646,Emirate of Diriyah,,800,unknown
+2098,647,British Empire,600,372,unknown
+2099,647,Australia,600,372,unknown
+2100,647,United Kingdom,600,372,unknown
+2101,647,Ottoman Empire,,,unknown
+2102,648,French Republic,44737,2700,unknown
+2103,648,Habsburg monarchy,43000,2300,unknown
+2104,649,Norwegian forces loyal to Olav Haraldsson,,,loser
+2105,649,Norwegian forces loyal to Sveinn Hákonarson,,,winner
+2106,649,Sweden,,,winner
+2107,650,France,35000,2000,winner
+2108,650,Habsburg Austria,21000,4000,loser
+2109,651,United States,5700,,winner
+2110,651,United Kingdom,8000,,loser
+2111,652,Ireland,2000,230,winner
+2112,652,Great Britain,2000,230,winner
+2113,652,United Irishmen,3000,1900,loser
+2114,653,Ottoman Empire,15000,,unknown
+2115,653,Moravian Serbia,15000,,unknown
+2116,653,Crusade :,18500,,unknown
+2117,654,Rashidun Caliphate,15000,,unknown
+2118,654,Byzantine Empire,20000,,unknown
+2119,655,Great Britain,,218,winner
+2120,655,France,,5000,loser
+2121,656,Neo-Babylonian Empire,,,unknown
+2122,656,Median Kingdom,,,unknown
+2123,656,Neo-Assyrian Empire,,,unknown
+2124,657,Byzantine Empire,37500,50,unknown
+2125,657,Sasanian Empire,12000,12000,unknown
+2126,658,United States,,,winner
+2127,658,Spain,,,loser
+2128,659,Venezuelan separatists,1000,,unknown
+2129,659,Kingdom of Spain,1000,232,unknown
+2130,660,Spain,,3500,unknown
+2131,660,Holy Roman Empire,,3500,unknown
+2132,660,Catholic League,,3500,unknown
+2133,660,Sweden,,,unknown
+2134,660,Heilbronn League,,,unknown
+2135,661,France,17000,4000,unknown
+2136,661,Hesse-Kassel,17000,4000,unknown
+2137,661,Bavaria,16000,2500,unknown
+2138,661,Holy Roman Empire,16000,2500,unknown
+2139,662,Allies,,,winner
+2140,662,United States,,,winner
+2141,662,United Kingdom,,,winner
+2142,662,Canada,,,winner
+2143,662,France,,,winner
+2144,662,Poland,,,winner
+2145,662,Australia,,,winner
+2146,662,New Zealand,,,winner
+2147,662,Belgium,,,winner
+2148,662,Czechoslovakia,,,winner
+2149,662,Greece,,,winner
+2150,662,Luxembourg,,,winner
+2151,662,Netherlands,,,winner
+2152,662,Norway,,,winner
+2153,662,South Africa,,,winner
+2154,662,Southern Rhodesia,,,winner
+2155,662,Axis,,,loser
+2156,662,Germany,,,loser
+2157,662,Italian Social Republic,,,loser
+2158,663,Japan,300,13000,loser
+2159,663,Joseon,148,500,winner
+2160,663,Ming Empire,148,500,winner
+2161,664,Kingdom of France,20000,5000,unknown
+2162,664,Duchy of Milan,20000,1500,unknown
+2163,664,Old Swiss Confederacy,20000,1500,unknown
+2164,665,Sardinia,54200,1378,loser
+2165,665,Austria,36300,466,winner
+2166,666,Russian Empire,50000,8500,unknown
+2167,666,Habsburg monarchy,50000,8500,unknown
+2168,666,French Republic,34930,10831,unknown
+2169,666,Polish Legion,34930,10831,unknown
+2170,666,Lombard Legion,34930,10831,unknown
+2171,667,France,27000,2000,winner
+2172,667,Spain,45000,5000,loser
+2173,668,Athens,,,unknown
+2174,668,Boeotian city-states,,100,unknown
+2175,669,Ground forces:,183000,119,winner
+2176,669,United States,183000,119,winner
+2177,669,Naval forces:,183000,119,winner
+2178,669,United Kingdom,183000,119,winner
+2179,669,Australia,183000,119,winner
+2180,669,New Zealand,183000,119,winner
+2181,669,Canada,183000,119,winner
+2182,669,Japan,76000,94136,loser
+2183,670,United States,180,1,winner
+2184,670,First Philippine Republic,300,,loser
+2185,671,Athens,10000,300,unknown
+2186,671,Amphilochia,10000,300,unknown
+2187,671,Akarnanian League,10000,300,unknown
+2188,671,Sparta,5000,1000,unknown
+2189,671,Ambrakia,5000,1000,unknown
+2190,672,United Kingdom,17600,48,unknown
+2191,672,Khedivate of Egypt,17600,48,unknown
+2192,672,Mahdist State,52000,12000,unknown
+2193,673,Roman Republic,30000,100,unknown
+2194,673,Pontus,77500,15000,unknown
+2195,674,Kingdom of England,3531,4000,winner
+2196,674,Burgundian State,3531,4000,winner
+2197,674,Kingdom of France,6400,2000,loser
+2198,674,Kingdom of Scotland,6400,2000,loser
+2199,675,Kingdom of England,8000,1800,unknown
+2200,675,Kingdom of Scotland,6000,100,unknown
+2201,676,Dutch Republic,90000,4500,unknown
+2202,676,Great Britain,90000,4500,unknown
+2203,676,France,90000,11500,unknown
+2204,677,County of Portugal,,,unknown
+2205,677,Almoravids,,,unknown
+2206,678,United Kingdom,15000,348,winner
+2207,678,Canada,15000,348,winner
+2208,678,South African Republic,7000,350,loser
+2209,678,Orange Free State,7000,350,loser
+2210,679,Austrian Empire,36350,49,tied
+2211,679,Kingdom of Croatia,36350,49,tied
+2212,679,Hungarian Revolutionary Army,10444,,tied
+2213,680,Mughal domains,17,,unknown
+2214,680,Delhi Sultanate,60000,20000,unknown
+2215,681,Mughal Empire,10000,,unknown
+2216,681,Sur Empire,30000,5000,unknown
+2217,682,Durrani Empire,32000,15000,unknown
+2218,682,Supported by:,32000,15000,unknown
+2219,682,Kingdom of Rohilkhand,32000,15000,unknown
+2220,682,Khanate of Kalat,32000,15000,unknown
+2221,682,Kingdom of Awadh,32000,15000,unknown
+2222,682,Amb State,32000,15000,unknown
+2223,682,Kingdom of Kumaon,32000,15000,unknown
+2224,682,Sind State,32000,15000,unknown
+2225,682,Mughal nobles,32000,15000,unknown
+2226,682,Maratha Confederacy,200000,30000,unknown
+2227,682,Peshwa Family,200000,30000,unknown
+2228,682,Holkar State of Indore,200000,30000,unknown
+2229,682,Scindia State of Gwalior,200000,30000,unknown
+2230,682,Gaekwad State of Baroda,200000,30000,unknown
+2231,683,China,,,unknown
+2232,683,People's Liberation Army Navy of China,,,unknown
+2233,683,South Vietnam,,,unknown
+2234,683,Republic of Vietnam Navy,,,unknown
+2235,684,British Empire,,344307,unknown
+2236,684,United Kingdom,,344307,unknown
+2237,684,Canada,,344307,unknown
+2238,684,Australia,,344307,unknown
+2239,684,New Zealand,,344307,unknown
+2240,684,South Africa,,344307,unknown
+2241,684,India,,344307,unknown
+2242,684,Newfoundland,,344307,unknown
+2243,684,Rhodesia France Belgium,,344307,unknown
+2244,684,Germany,80,308500,unknown
+2245,685,France,1300,100,winner
+2246,685,England,5000,2000,loser
+2247,686,Roman Empire,,,loser
+2248,686,Juthungi,,,winner
+2249,687,Kingdom of the Franks,25000,,unknown
+2250,687,Kingdom of the Lombards,6250,,unknown
+2251,688,Duchy of Milan,,,unknown
+2252,688,Republic of Venice,100,2500,unknown
+2253,689,Kingdom of France,4000,8000,unknown
+2254,689,Marquisate of Saluzzo,4000,8000,unknown
+2255,689,Empire of Charles V,10000,1500,unknown
+2256,689,Holy Roman Empire,10000,1500,unknown
+2257,689,Habsburg Spain,10000,1500,unknown
+2258,690,First Philippine Republic,,,unknown
+2259,690,United States,,2,unknown
+2260,691,Eight-Nation Alliance :,20000,,unknown
+2261,691,Russia,20000,,unknown
+2262,691,France,20000,,unknown
+2263,691,Japan,20000,,unknown
+2264,691,British Empire,20000,,unknown
+2265,691,Germany,20000,,unknown
+2266,691,United States,20000,,unknown
+2267,691,Italy,20000,,unknown
+2268,691,Austria-Hungary,20000,,unknown
+2269,691,Spanish Empire,20000,,unknown
+2270,691,Belgium,20000,,unknown
+2271,691,Mutual Protection of Southeast China,20000,,unknown
+2272,691,Boxers,80000,0,unknown
+2273,691,Qing dynasty,80000,0,unknown
+2274,692,United States,47561,1336,winner
+2275,692,Japan,10900,12033,loser
+2276,693,United States,,,unknown
+2277,693,Japan,,,unknown
+2278,694,Caesarians,1000,1200,unknown
+2279,694,Pompeians,46500,15000,unknown
+2280,695,Triumvirs,95000,16000,unknown
+2281,695,Supported by:,95000,16000,unknown
+2282,695,Ptolemaic Egypt,95000,16000,unknown
+2283,695,Liberators,85000,8000,unknown
+2284,695,Supported by:,85000,8000,unknown
+2285,695,Parthian Empire,85000,8000,unknown
+2286,696,United States,3000,4,unknown
+2287,696,Confederate States,800,26,unknown
+2288,697,United States,,,winner
+2289,697,Japan,,,loser
+2290,698,Great Britain,4400,58,winner
+2291,698,British America,4400,58,winner
+2292,698,France,3400,116,loser
+2293,698,French Canada Mi'kmaq Maliseet Abenaki Potawatomis Odawa Wendat,3400,116,loser
+2294,699,Protestant Bohemia,20000,1100,unknown
+2295,699,Electoral Palatinate,20000,1100,unknown
+2296,699,Bohemian Catholics,4000,2500,unknown
+2297,700,United States of America,164,19,winner
+2298,700,Coeur D' Alenes Yakama,900,9,loser
+2299,700,Cayuse,900,9,loser
+2300,700,Spokane,900,9,loser
+2301,700,possibly Walla Walla Indians,900,9,loser
+2302,700,assorted Native American tribes,900,9,loser
+2303,701,Scotland,29000,15000,unknown
+2304,701,England,16800,600,unknown
+2305,702,Roman Empire,,,loser
+2306,702,Juthungi,,,winner
+2307,703,Great Britain,,,winner
+2308,703,British East India Company,,,winner
+2309,703,Bengal France,,500,loser
+2310,703,French East India Company,,500,loser
+2311,704,Greek city-states,80000,,unknown
+2312,704,Sparta,80000,,unknown
+2313,704,Athens,80000,,unknown
+2314,704,Corinth,80000,,unknown
+2315,704,Megara,80000,,unknown
+2316,704,Achaemenid Empire Greek vassals :,,,unknown
+2317,704,Boeotia,,,unknown
+2318,704,Thessalia,,,unknown
+2319,704,Macedon,,,unknown
+2320,705,United Kingdom,,2,winner
+2321,705,Indonesia,375,50,loser
+2322,706,Bulgarian Empire,16500,,unknown
+2323,706,Byzantine Empire,65000,,unknown
+2324,707,England,6000,40,unknown
+2325,707,France,15000,4500,unknown
+2326,708,Axis and collaborationist forces:,30000,350,winner
+2327,708,Germany,30000,350,winner
+2328,708,Independent State of Croatia,30000,350,winner
+2329,708,Slovenia,30000,350,winner
+2330,708,Chetniks,30000,350,winner
+2331,708,Cossacks,30000,350,winner
+2332,708,Allies :,,100,loser
+2333,708,Partisans,,100,loser
+2334,708,United Kingdom,,100,loser
+2335,709,Western Roman Empire,12500,,unknown
+2336,709,Visigoths,12500,,unknown
+2337,710,Swedish Empire,31392,9700,unknown
+2338,710,Cossack Hetmanate,31392,9700,unknown
+2339,710,Tsardom of Russia,75000,4635,unknown
+2340,710,Kalmyk Khanate,75000,4635,unknown
+2341,710,Cossack Hetmanate,75000,4635,unknown
+2342,711,Empire of Japan,,90,tied
+2343,711,Russian Empire,,,tied
+2344,712,Commonwealth of England,12000,,unknown
+2345,712,Dutch Republic,8600,,unknown
+2346,713,United States,,,winner
+2347,713,CSA,,,loser
+2348,714,Ferrara Regency Council and allies,3000,100,unknown
+2349,714,Azzo X d'Este,8000,1000,unknown
+2350,715,Spanish Republic,,,unknown
+2351,715,Nationalist Spain,,,unknown
+2352,716,France,70000,4000,winner
+2353,716,Austria,50000,8070,loser
+2354,717,Swedish Empire,6000,500,tied
+2355,717,Bohemia,2000,219,tied
+2356,718,Prussia,64000,14300,winner
+2357,718,Austria,60500,13275,loser
+2358,719,East Francia,,,unknown
+2359,719,Principality of Hungary,,,unknown
+2360,720,Scotland,24000,1000,unknown
+2361,720,English Royalists,24000,1000,unknown
+2362,720,English Parliamentarians,11100,,unknown
+2363,721,Great Britain,2750,300,unknown
+2364,721,Jacobites,1700,17,unknown
+2365,722,Jacobites,2450,120,unknown
+2366,722,British Government,2190,,unknown
+2367,723,United States,,,winner
+2368,723,Great Britain,,,loser
+2369,724,Lydia,95000,,tied
+2370,724,Achaemenid Empire,20000,,tied
+2371,725,United States,3000,78,winner
+2372,725,Mexico,4000,,loser
+2373,726,Mexico,3791,87,unknown
+2374,726,France,5730,131,unknown
+2375,727,French Empire,10800,660,unknown
+2376,727,Spain,10000,110,unknown
+2377,728,Roman Republic,30000,,loser
+2378,728,Macedon,18514,20000,winner
+2379,729,Athens,540,,unknown
+2380,729,Sparta,,420,unknown
+2381,730,France,20500,4400,tied
+2382,730,Seventh Coalition :,34000,5600,tied
+2383,730,United Kingdom,34000,5600,tied
+2384,730,Netherlands,34000,5600,tied
+2385,730,Hanover,34000,5600,tied
+2386,730,Nassau,34000,5600,tied
+2387,730,Brunswick,34000,5600,tied
+2388,731,England,2300,150,winner
+2389,731,Massachusetts Bay Colony,2300,150,winner
+2390,731,France,2000,7,loser
+2391,731,Colony of Canada,2000,7,loser
+2392,732,France,5000,193,winner
+2393,732,Colony of Canada,5000,193,winner
+2394,732,Great Britain,3800,259,loser
+2395,733,Great Britain,1800,19,winner
+2396,733,United Colonies,1200,84,loser
+2397,734,United Kingdom,1366,21,winner
+2398,734,Upper Canada,1366,21,winner
+2399,734,United States,3550,100,loser
+2400,735,United States,800,7,winner
+2401,735,Philippine Republic,75,52,loser
+2402,736,French Empire,37550,3500,unknown
+2403,736,Kingdom of Italy,37550,3500,unknown
+2404,736,Austrian Empire,37762,10300,unknown
+2405,736,Kingdom of Hungary,37762,10300,unknown
+2406,737,United Kingdom,,71,winner
+2407,737,India,,71,winner
+2408,737,Rhodesia Australia New Zealand,,71,winner
+2409,737,Ottoman Empire,2000,200,loser
+2410,738,Sweden,37500,2000,unknown
+2411,738,Saxe-Weimar,37500,2000,unknown
+2412,738,Holy Roman Empire,22000,2000,unknown
+2413,738,Catholic League,22000,2000,unknown
+2414,739,Novgorod Republic,15000,,unknown
+2415,739,Pskov Republic,15000,,unknown
+2416,739,Grand Duchy of Vladimir,15000,,unknown
+2417,739,Duchy of Estonia,20000,,unknown
+2418,739,Bishopric of Dorpat,20000,,unknown
+2419,739,Livonian Order,20000,,unknown
+2420,740,Dutch Republic,62000,4331,unknown
+2421,740,England,62000,4331,unknown
+2422,740,France,60000,14000,unknown
+2423,740,Bavaria,60000,14000,unknown
+2424,740,Spain,60000,14000,unknown
+2425,742,French Republic,20500,,winner
+2426,742,Habsburg monarchy,6000,200,loser
+2427,743,Austrian Empire,24500,2500,unknown
+2428,743,Duchy of Warsaw,10500,450,unknown
+2429,743,Kingdom of Saxony,10500,450,unknown
+2430,744,France,100000,4000,winner
+2431,744,Habsburg Empire,70000,10000,loser
+2432,744,Great Britain,70000,10000,loser
+2433,744,Hanover,70000,10000,loser
+2434,744,Dutch Republic,70000,10000,loser
+2435,746,Kingdom of France,2000,4500,unknown
+2436,746,Duchy of Ferrara,2000,4500,unknown
+2437,746,Spain,5000,7000,unknown
+2438,746,Papal States,5000,7000,unknown
+2439,747,West Saxons,,,unknown
+2440,747,Danish Vikings,,,unknown
+2441,748,Dutch Republic,280,2,unknown
+2442,748,English Williamites,280,2,unknown
+2443,748,Ireland,600,50,unknown
+2444,749,Sun Quan,50000,,winner
+2445,749,Liu Bei,50000,,winner
+2446,749,Liu Qi,50000,,winner
+2447,749,Cao Cao,,,loser
+2448,750,United States,1,990,winner
+2449,750,Belgium,1,990,winner
+2450,750,Germany,7,,loser
+2451,751,France,6000,400,unknown
+2452,751,Weimar Army,6000,400,unknown
+2453,751,Holy Roman Empire,7000,500,unknown
+2454,751,Bavaria,7000,500,unknown
+2455,752,Filibusters,,200,loser
+2456,752,Costa Rica,3000,110,winner
+2457,753,United Kingdom,,72,winner
+2458,753,New Zealand,,72,winner
+2459,753,Germany,,36,loser
+2460,754,French Republic,22000,4100,winner
+2461,754,Habsburg monarchy,28000,13150,loser
+2462,755,France,17000,4000,winner
+2463,755,Spanish Empire,19000,8000,loser
+2464,756,British Empire,14000,1130,winner
+2465,756,United Kingdom,14000,1130,winner
+2466,756,India,14000,1130,winner
+2467,756,Southern Rhodesia,14000,1130,winner
+2468,756,Australia,14000,1130,winner
+2469,756,New Zealand,14000,1130,winner
+2470,756,Ottoman Empire,16000,9200,loser
+2471,756,German Empire,16000,9200,loser
+2472,756,Austria-Hungary,16000,9200,loser
+2473,757,United Kingdom,,,winner
+2474,757,Zulu Kingdom,700,351,loser
+2475,758,Prussia,22000,169,winner
+2476,758,France,41110,10000,loser
+2477,758,Holy Roman Empire,41110,10000,loser
+2478,759,Royalists,1800,,unknown
+2479,759,Parliamentarians,2500,600,unknown
+2480,760,Aba family ruling northern part of Eastern Hungary,,,unknown
+2481,760,Matthew Csák ruling Upper Hungary,,,unknown
+2482,760,Hungary under the House of Anjou,,,unknown
+2483,760,Order of Saint John,,,unknown
+2484,760,Zipser Saxons,,,unknown
+2485,760,Kassa,,,unknown
+2486,761,Kingdom of France,300,,unknown
+2487,761,Spain,600,,unknown
+2488,762,France,10000,800,winner
+2489,762,Spain,20000,1400,loser
+2490,762,Portugal,20000,1400,loser
+2491,763,Katipunan,3200,,unknown
+2492,763,Magdiwang,3200,,unknown
+2493,763,Spanish Empire,1100,,unknown
+2494,763,Guardia Civil,1100,,unknown
+2495,764,Kingdom of France,3000,,winner
+2496,764,County of Flanders,16000,8000,loser
+2497,764,Kingdom of England,16000,8000,loser
+2498,765,House of Montfort,180,,unknown
+2499,765,Brittany,180,,unknown
+2500,765,Kingdom of England,180,,unknown
+2501,765,House of Blois,1000,,unknown
+2502,765,Brittany,1000,,unknown
+2503,765,Kingdom of France,1000,,unknown
+2504,766,France,,10000,winner
+2505,766,German Empire,2,7000,loser
+2506,767,Holy Roman Empire,5000,650,unknown
+2507,767,Kingdom of Bohemia,3200,1500,unknown
+2508,768,South Vietnam,,,unknown
+2509,768,United States,,,unknown
+2510,768,Australia,,,unknown
+2511,768,Viet Cong,,1100,unknown
+2512,768,North Vietnam,,1100,unknown
+2513,769,United States,71034,3225,winner
+2514,769,Japan,25469,5000,loser
+2515,770,French Empire,45823,10000,unknown
+2516,770,United Kingdom,48974,3129,unknown
+2517,770,Portugal,48974,3129,unknown
+2518,770,Spain,48974,3129,unknown
+2519,771,Greek city-states,374,,unknown
+2520,771,Achaemenid Empire,,300,unknown
+2521,772,Delian League,,50000,tied
+2522,772,Egyptian rebels,,50000,tied
+2523,772,Persian Empire and allies,,200,tied
+2524,773,Centralist Republic of Mexico,,,unknown
+2525,773,Republic of Texas,,,unknown
+2526,774,Filibusters,335,26,loser
+2527,774,Costa Rica,800,19,winner
+2528,775,United States,,1,winner
+2529,775,Spain,,343,loser
+2530,776,United States,9000,90,winner
+2531,776,Great Britain,7200,440,loser
+2532,776,Quebec,7200,440,loser
+2533,776,Loyalists,7200,440,loser
+2534,776,Hesse-Kassel,7200,440,loser
+2535,776,Hesse-Hanau,7200,440,loser
+2536,776,Brunswick–Lüneburg,7200,440,loser
+2537,777,Later Jin,60000,3500,winner
+2538,777,Ming dynasty,,,loser
+2539,777,Joseon,,,loser
+2540,778,British Empire,,,unknown
+2541,778,Australia,,,unknown
+2542,778,India,,,unknown
+2543,778,New Zealand,,,unknown
+2544,778,United Kingdom,,,unknown
+2545,778,Ottoman Empire,,,unknown
+2546,778,German Empire,,,unknown
+2547,779,Artuqids of Aleppo,20000,,unknown
+2548,779,Principality of Antioch,500,570,unknown
+2549,780,English Commonwealth,17000,1200,unknown
+2550,780,Dutch Republic,13000,2000,unknown
+2551,781,Hungarian Revolutionary Army,27655,500,loser
+2552,781,Austrian Empire,33000,22,winner
+2553,781,Croatia,33000,22,winner
+2554,782,Teutonic Order,2700,1000,unknown
+2555,782,Polish Crown,2000,250,unknown
+2556,782,Prussian Confederation,2000,250,unknown
+2557,783,British Empire,14300,5300,unknown
+2558,783,Ottoman Empire,,2600,unknown
+2559,784,North German Confederation,200000,1310,loser
+2560,784,Prussia,200000,1310,loser
+2561,784,Saxony Bavaria,200000,1310,loser
+2562,784,French Empire,125000,3220,winner
+2563,785,Kingdom of England,3000,200,unknown
+2564,785,Monmouth Rebels,4000,1300,unknown
+2565,786,Western Army : Forces loyal to Ishida Mitsunari,120000,32000,unknown
+2566,786,many clans from Western Japan,120000,32000,unknown
+2567,786,Eastern Army : Forces loyal to Tokugawa Ieyasu,75000,10000,unknown
+2568,786,clans of Eastern Japan,75000,10000,unknown
+2569,787,Old Swiss Confederacy,1250,400,unknown
+2570,787,Lucerne,1250,400,unknown
+2571,787,Uri,1250,400,unknown
+2572,787,Schwyz,1250,400,unknown
+2573,787,Unterwalden,1250,400,unknown
+2574,787,Duchy of Austria,4000,1500,unknown
+2575,788,France,50000,10000,unknown
+2576,788,Dutch Republic,65000,15000,unknown
+2577,788,Holy Roman Empire,65000,15000,unknown
+2578,788,Spain,65000,15000,unknown
+2579,789,France,,,winner
+2580,789,United Kingdom,,,winner
+2581,789,Ottoman Empire,,,winner
+2582,789,Piedmont-Sardinia,,,winner
+2583,789,Russia,,102000,loser
+2584,789,Imperial Navy Greek Volunteer Legion,,102000,loser
+2585,790,Qing dynasty,60000,,unknown
+2586,790,Ming defenders of Shanhai Pass,60000,,unknown
+2587,790,Shun dynasty,100000,,unknown
+2588,791,China,,187200,loser
+2589,791,Japan,,11072,winner
+2590,792,Later Jin,,,winner
+2591,792,Ming dynasty,,70000,loser
+2592,793,Northern Court,70000,,winner
+2593,793,Southern Court,3000,,loser
+2594,794,United States,66812,1754,unknown
+2595,794,Confederate States,44699,1728,unknown
+2596,795,Government,6000,663,tied
+2597,795,Jacobites,12000,800,tied
+2598,796,Kingdom of England,14000,,unknown
+2599,796,House of Percy,14000,,unknown
+2600,796,Principality of Wales,14000,,unknown
+2601,796,Kingdom of Scotland,14000,,unknown
+2602,797,Russia,150,12,winner
+2603,797,Tlingit Kiks.ádi Clan,775,,loser
+2604,798,Clan Sutherland,550,50,unknown
+2605,798,Clan Donald,,,unknown
+2606,798,and allies,,,unknown
+2607,799,United Provinces,3,720,unknown
+2608,799,Spain,1130,414,unknown
+2609,800,Kingdom of England,135,500,unknown
+2610,800,Kingdom of France,213,18000,unknown
+2611,801,Germany,850000,70593,unknown
+2612,801,Russia,1252600,107645,unknown
+2613,802,France,82935,3887,winner
+2614,802,Sardinia,82935,3887,winner
+2615,802,Austria,119783,7679,loser
+2616,803,United Kingdom and Empire :,,95675,tied
+2617,803,Canada,,95675,tied
+2618,803,Australia,,95675,tied
+2619,803,New Zealand,,95675,tied
+2620,803,Egypt,,95675,tied
+2621,803,South Africa,,95675,tied
+2622,803,India,,95675,tied
+2623,803,Newfoundland,,95675,tied
+2624,803,Bermuda,,95675,tied
+2625,803,Rhodesia France,,95675,tied
+2626,803,Germany,,440000,tied
+2627,804,British Empire,,11500,winner
+2628,804,Australia,,11500,winner
+2629,804,New Zealand,,11500,winner
+2630,804,Canada,,11500,winner
+2631,804,United Kingdom United States,,11500,winner
+2632,804,Germany,,6000,loser
+2633,805,Athens,3000,,unknown
+2634,805,Sparta,440,148,unknown
+2635,806,United Kingdom,20000,243,unknown
+2636,806,South African Republic,8000,68,unknown
+2637,806,Orange Free State,8000,68,unknown
+2638,807,United States,111700,2725,tied
+2639,807,Confederate States,57500,1515,tied
+2640,808,Electoral Palatinate,15000,6000,unknown
+2641,808,Holy Roman Empire,15000,1000,unknown
+2642,808,Catholic League,15000,1000,unknown
+2643,809,Germany,,,unknown
+2644,809,Romania,,,unknown
+2645,809,Italy,,,unknown
+2646,809,Hungary,,,unknown
+2647,809,Croatia,,,unknown
+2648,809,Russia,,,unknown
+2649,810,Kingdom of England,,5000,unknown
+2650,810,Kingdom of Norway,,8000,unknown
+2651,810,Earldom of Orkney,,8000,unknown
+2652,810,English rebels,,8000,unknown
+2653,811,House of York,5000,60,unknown
+2654,811,House of Lancaster,2000,100,unknown
+2655,812,House of Lancaster,15000,1916,unknown
+2656,812,Kingdom of Scotland,15000,1916,unknown
+2657,812,House of York,10000,,unknown
+2658,814,France,22000,600,winner
+2659,814,Russia,9000,2000,loser
+2660,815,Holy Roman Empire,27000,2000,winner
+2661,815,Habsburg monarchy,27000,2000,winner
+2662,815,League of the Rhine Kingdom of France,27000,2000,winner
+2663,815,Ottoman Empire,55000,9000,loser
+2664,815,Crimean Khanate,55000,9000,loser
+2665,816,France,80000,8000,unknown
+2666,816,United Provinces,80000,8000,unknown
+2667,816,England,80000,8000,unknown
+2668,816,Scotland,80000,8000,unknown
+2669,817,Olaf Haraldsson's hird and allies.,6600,4200,unknown
+2670,817,Swedish auxiliaries,6600,4200,unknown
+2671,817,"The ""Farmer Army"" composed of Rival jarls",14400,4600,unknown
+2672,817,chieftains,14400,4600,unknown
+2673,817,villagers and others loyal to Cnut the Great .,14400,4600,unknown
+2674,818,Scotland,6300,,unknown
+2675,818,England,9000,100,unknown
+2676,819,Engager Party,10000,,unknown
+2677,819,Kirk Party,1000,200,unknown
+2678,820,House of Tudor,12000,1650,unknown
+2679,820,House of York,8000,4000,unknown
+2680,821,France,84000,3000,tied
+2681,821,Austria,72000,397,tied
+2682,822,Denmark–Norway,,,winner
+2683,822,Kingdom of Sweden,,,winner
+2684,822,Hanseatic City of Stralsund,,,winner
+2685,822,Holy Roman Empire,,,loser
+2686,823,Swedish Empire,11500,,unknown
+2687,823,Denmark-Norway,56500,,unknown
+2688,823,Saxony,56500,,unknown
+2689,823,Tsardom of Russia,56500,,unknown
+2690,823,Prussia,56500,,unknown
+2691,824,Modoc,53,,winner
+2692,824,United States,300,42,loser
+2693,825,Polish–Swedish union,8000,500,unknown
+2694,825,Swedish separatists,12000,40,unknown
+2695,826,Yan,20000,120000,winner
+2696,826,Tang,3000,,loser
+2697,827,Maratha Kingdom,4000,,unknown
+2698,827,Mughal Empire,5000,,unknown
+2699,828,Sur Empire,,,unknown
+2700,828,Bengal Sultanate,,,unknown
+2701,828,Lohani Chiefs,,,unknown
+2702,828,Portuguese Empire,,,unknown
+2703,829,Russian Empire,15000,1000,unknown
+2704,829,Ottoman Empire,13000,641,unknown
+2705,830,Delian League,414,,unknown
+2706,830,Segesta,414,,unknown
+2707,830,Etruscans,414,,unknown
+2708,830,Peloponnesian League,2300,,unknown
+2709,830,Corinth,2300,,unknown
+2710,830,Syracuse,2300,,unknown
+2711,831,Syracuse,30000,,unknown
+2712,831,Sicilian Greeks,30000,,unknown
+2713,831,Carthage,50000,,unknown
+2714,832,Guelphs,4000,,unknown
+2715,832,House of Anjou,4000,,unknown
+2716,832,Ghibellines,5500,,unknown
+2717,832,House of Hohenstaufen,5500,,unknown
+2718,833,Republic of China,288000,30000,unknown
+2719,833,National Revolutionary Army,288000,30000,unknown
+2720,833,Empire of Japan,60000,8000,unknown
+2721,833,Imperial Japanese Army,60000,8000,unknown
+2722,834,Russia,900,172,winner
+2723,834,United Kingdom,900,172,winner
+2724,834,Japan,900,172,winner
+2725,834,Germany,900,172,winner
+2726,834,Austria-Hungary,900,172,winner
+2727,834,Italy,900,172,winner
+2728,834,China,2000,,loser
+2729,835,Abbasid Caliphate,30000,,unknown
+2730,835,Tibetan Empire,30000,,unknown
+2731,835,Tang dynasty,10000,,unknown
+2732,835,Karkota dynasty,10000,,unknown
+2733,835,Ferghana Kingdom,10000,,unknown
+2734,836,French Empire,46138,7389,unknown
+2735,836,Duchy of Warsaw,46138,7389,unknown
+2736,836,United Kingdom,20641,6268,unknown
+2737,836,Spain,20641,6268,unknown
+2738,837,Athens,14000,2100,loser
+2739,837,Sparta,11500,1500,winner
+2740,838,German Empire,150000,1726,loser
+2741,838,Russian Empire,151500,120219,winner
+2742,839,United States,35000,,winner
+2743,839,Gilbert and Ellice Islands,35000,,winner
+2744,839,Japan,2636,4690,loser
+2745,840,Crown of Castile,12000,,unknown
+2746,840,Kingdom of Portugal,12000,,unknown
+2747,840,Marinid Sultanate,67000,,unknown
+2748,840,Emirate of Granada,67000,,unknown
+2749,841,Japan,,211,unknown
+2750,841,United States,,417,unknown
+2751,842,Russian Empire,24000,562,unknown
+2752,842,Ottoman Empire,2200,900,unknown
+2753,843,Spanish Republic,40000,60000,unknown
+2754,843,Nationalist Spain,10000,57000,unknown
+2755,844,French Empire,36000,250,winner
+2756,844,Kingdom of Sardinia,36000,250,winner
+2757,844,Ottoman Empire,36000,250,winner
+2758,844,Russian Empire,60000,3330,loser
+2759,845,Hungarian Revolutionary Army,42692,500,unknown
+2760,845,Polish Legion,42692,500,unknown
+2761,845,Italian volunteers,42692,500,unknown
+2762,845,Austrian Empire,4804,36,unknown
+2763,845,Russian Empire,4804,36,unknown
+2764,846,Spanish Empire,1300,655,unknown
+2765,846,Confederacy of Tlaxcala,1300,655,unknown
+2766,846,Tetzcoco,1300,655,unknown
+2767,846,Otomis,1300,655,unknown
+2768,846,Chalco,1300,655,unknown
+2769,846,Mixquic,1300,655,unknown
+2770,846,Iztapalapa,1300,655,unknown
+2771,846,Triple Alliance,80000,100000,unknown
+2772,846,Tenochtitlan,80000,100000,unknown
+2773,846,Tlatelolco,80000,100000,unknown
+2774,847,"Allied Germanic peoples , possibly including:",18000,5000,unknown
+2775,847,Angrivarii,18000,5000,unknown
+2776,847,Bructeri,18000,5000,unknown
+2777,847,Chatti,18000,5000,unknown
+2778,847,Cherusci,18000,5000,unknown
+2779,847,Marsi,18000,5000,unknown
+2780,847,Sugambri,18000,5000,unknown
+2781,847,Usipetes,18000,5000,unknown
+2782,847,Roman Empire,,20000,unknown
+2783,848,House of York,6000,,unknown
+2784,848,House of Lancaster,6000,2000,unknown
+2785,849,Dutch Republic,,1000,unknown
+2786,849,England,,2000,unknown
+2787,849,France,,2000,unknown
+2788,850,Tecumseh's confederacy,1450,33,winner
+2789,850,United Kingdom,1450,33,winner
+2790,850,United States,1000,27,loser
+2791,851,Populares,50000,1000,unknown
+2792,851,Optimates,14500,10000,unknown
+2793,851,Numidia,14500,10000,unknown
+2794,852,Greek city-states,7000,4000,unknown
+2795,852,Sparta,7000,4000,unknown
+2796,852,Thespiae,7000,4000,unknown
+2797,852,Thebes,7000,4000,unknown
+2798,852,Others,7000,4000,unknown
+2799,852,Achaemenid Empire,210000,20000,unknown
+2800,853,Kingdom of France,1900,,winner
+2801,853,Kingdom of Great Britain,11376,5,loser
+2802,854,Green Mountain Boys,83,1,unknown
+2803,854,militia of the Connecticut Colony,83,1,unknown
+2804,854,militia of the Province of Massachusetts Bay,83,1,unknown
+2805,854,Great Britain,,,unknown
+2806,854,26th Regiment of Foot,,,unknown
+2807,855,Great Britain,7800,5,winner
+2808,855,Brunswick-Wolfenbüttel,7800,5,winner
+2809,855,Hesse-Hanau,7800,5,winner
+2810,855,Iroquois,7800,5,winner
+2811,855,United States,3000,18,loser
+2812,856,Iraq,,35,unknown
+2813,856,Security forces,,35,unknown
+2814,856,Shi'ite private militias United States,,35,unknown
+2815,856,Islamic State,,215,unknown
+2816,856,Ansar al-Islam Islamic Army in Iraq,,215,unknown
+2817,856,Hamas of Iraq Iraqi Ba'ath Party Loyalists,,215,unknown
+2818,856,Naqshbandi Army,,215,unknown
+2819,856,General Military Council for Iraqi Revolutionaries,,215,unknown
+2820,856,Supreme Command for Jihad and Liberation,,215,unknown
+2821,857,Iraq,5000,1000,tied
+2822,857,Iran,5000,1000,tied
+2823,857,Airstrikes :,5000,1000,tied
+2824,857,United States,5000,1000,tied
+2825,857,United Kingdom,5000,1000,tied
+2826,857,France,5000,1000,tied
+2827,857,Islamic State of Iraq and the Levant,7500,1142,tied
+2828,858,Tecumseh's Confederacy,600,65,loser
+2829,858,United States,250,62,winner
+2830,859,Scottish Royalists,2500,,unknown
+2831,859,Irish Brigade,2500,,unknown
+2832,859,Parliament of Scotland,4500,1200,unknown
+2833,860,United States,600,3,unknown
+2834,860,Philippine Republic,60,52,unknown
+2835,861,Australia United Kingdom,27000,5989,winner
+2836,861,India,27000,5989,winner
+2837,861,New Zealand,27000,5989,winner
+2838,861,Libyan Arab Force Poland Czechoslovakia,27000,5989,winner
+2839,861,Germany,35000,112,loser
+2840,861,Italy,35000,112,loser
+2841,862,Austrian Empire,11938,700,unknown
+2842,862,Grand Duchy of Tuscany,11938,700,unknown
+2843,862,Kingdom of Naples,25588,1120,unknown
+2844,863,India,,,winner
+2845,863,Pakistan,,,loser
+2846,864,Clan Sutherland supported by men from the,,,unknown
+2847,864,Clan Gordon,,,unknown
+2848,864,Clan Mackay,,216,unknown
+2849,865,Habsburg monarchy,35000,13000,winner
+2850,865,Savoy,35000,13000,winner
+2851,865,Great Britain,35000,13000,winner
+2852,865,Dutch Republic,35000,13000,winner
+2853,865,France,10000,,loser
+2854,866,Spain,,149,unknown
+2855,866,France,,149,unknown
+2856,866,Great Britain,,133,unknown
+2857,867,French Republic,32000,1700,winner
+2858,867,French Royalists,23000,1200,loser
+2859,867,French Federalists,23000,1200,loser
+2860,867,Great Britain,23000,1200,loser
+2861,867,Spain,23000,1200,loser
+2862,867,Naples,23000,1200,loser
+2863,867,Sicily,23000,1200,loser
+2864,867,Sardinia,23000,1200,loser
+2865,868,Duchy of Aquitaine,,,unknown
+2866,868,Umayyad Caliphate,,,unknown
+2867,869,France,42043,3236,tied
+2868,869,United Kingdom,49446,4558,tied
+2869,869,Spain,49446,4558,tied
+2870,869,Portugal,49446,4558,tied
+2871,870,Republican France,76000,3000,winner
+2872,870,Habsburg monarchy,74000,4000,loser
+2873,870,Great Britain,74000,4000,loser
+2874,870,Hanover,74000,4000,loser
+2875,870,Hesse-Darmstadt,74000,4000,loser
+2876,871,Kingdom of the Franks,17500,1000,unknown
+2877,871,Vascones,17500,1000,unknown
+2878,871,Umayyad Caliphate,20000,12000,unknown
+2879,872,House of York,,4500,unknown
+2880,872,House of Lancaster,,8500,unknown
+2881,873,United Kingdom,17000,458,winner
+2882,873,France,30000,4395,loser
+2883,873,Spain,30000,4395,loser
+2884,874,France,34000,18000,unknown
+2885,874,Polish Legion,34000,18000,unknown
+2886,874,Lombard Legion,34000,18000,unknown
+2887,874,Russia,,6000,unknown
+2888,874,Habsburg monarchy,,6000,unknown
+2889,875,United States,2400,2,winner
+2890,875,Hesse-Kassel,1500,22,loser
+2891,876,United States,6000,100,winner
+2892,876,Great Britain,5000,365,loser
+2893,877,United Nations,2200,365,unknown
+2894,877,Colombia,2200,365,unknown
+2895,877,Ethiopia,2200,365,unknown
+2896,877,South Korea,2200,365,unknown
+2897,877,United States,2200,365,unknown
+2898,877,China,50000,4838,unknown
+2899,878,French Republic,50000,,winner
+2900,878,Prussia,70000,,loser
+2901,878,Habsburg Austria,70000,,loser
+2902,880,Empire of Japan,,117,loser
+2903,880,Russian Empire,,5045,winner
+2904,881,France,35000,700,winner
+2905,881,Duchy of Warsaw,35000,700,winner
+2906,881,Spain,45000,6000,loser
+2907,882,Clan Mackay,,,unknown
+2908,882,Clan Sutherland,,,unknown
+2909,882,Clan MacLeod of Lewis,,,unknown
+2910,883,France,30000,1100,winner
+2911,883,Holy Roman Empire,40000,900,loser
+2912,883,Brandenburg-Prussia,40000,900,loser
+2913,884,Oirat Mongols,20000,,unknown
+2914,884,Eastern Mongols,20000,,unknown
+2915,884,Uriankhai,20000,,unknown
+2916,884,Ming dynasty,500000,,unknown
+2917,885,United Kingdom,500000,76020,winner
+2918,885,India,500000,76020,winner
+2919,885,Newfoundland,500000,76020,winner
+2920,885,United States,500000,76020,winner
+2921,885,Free France,500000,76020,winner
+2922,885,Australia,500000,76020,winner
+2923,885,New Zealand,500000,76020,winner
+2924,885,Greece,500000,76020,winner
+2925,886,Royalists,13000,50,tied
+2926,886,Parliamentarians,24000,50,tied
+2927,887,Holy Roman Empire,18500,1000,unknown
+2928,887,Electorate of Bavaria,18500,1000,unknown
+2929,887,Spain,18500,1000,unknown
+2930,887,Kingdom of France,16500,8750,unknown
+2931,888,Macedonia,25,34,unknown
+2932,888,National Liberation Army,2750,1,unknown
+2933,889,Almoravid dynasty,2300,,unknown
+2934,889,Kingdom of Castile,2300,,unknown
+2935,889,Kingdom of León,2300,,unknown
+2936,890,France,15900,200,winner
+2937,890,Spain,11640,7000,loser
+2938,891,France,80000,1500,winner
+2939,891,Austria,40000,4000,loser
+2940,892,British Empire,4200,18,winner
+2941,892,Zulu Kingdom,13500,473,loser
+2942,893,China,,600,unknown
+2943,893,United Nations,,449,unknown
+2944,893,United States South Korea,,449,unknown
+2945,894,Minamoto clan,1500,,unknown
+2946,894,Taira clan,28000,,unknown
+2947,895,Republic of China New 36th Division,10000,,unknown
+2948,895,Chinese Xinjiang Provincial government,1800,,unknown
+2949,896,Republic of China,10000,,unknown
+2950,896,New 36th Division,10000,,unknown
+2951,896,Chinese Xinjiang Provincial government,,,unknown
+2952,897,Great Britain,,407,tied
+2953,897,France,,126,tied
+2954,898,France,27000,7000,unknown
+2955,898,Spain,22000,1500,unknown
+2956,900,Kingdom of France,36000,300,winner
+2957,900,Kingdom of Prussia,34000,200,loser
+2958,900,Holy Roman Empire,34000,200,loser
+2959,900,Army of Condé,34000,200,loser
+2960,901,Spanish Republic,90000,6000,unknown
+2961,901,Nationalist Spain,80000,2000,unknown
+2962,902,Dauphiné,,,winner
+2963,902,Savoy,,,loser
+2964,903,Moldavia,35000,5000,winner
+2965,903,Kingdom of Poland,35000,5000,winner
+2966,903,Kingdom of Hungary,35000,5000,winner
+2967,903,Ottoman Empire,90000,40000,loser
+2968,904,France,10000,600,winner
+2969,904,Prussia,21500,9000,loser
+2970,904,Russia,21500,9000,loser
+2971,905,United States,8600,13,winner
+2972,905,Mexico,3360,350,loser
+2973,906,United States,,21,winner
+2974,906,United Kingdom,,21,winner
+2975,906,Mexico,,172,loser
+2976,906,Germany,,172,loser
+2977,906,Italy,,172,loser
+2978,907,Germany,,143000,winner
+2979,907,France,75,163000,loser
+2980,908,French Empire,13500,450,loser
+2981,908,United Kingdom,18750,135,winner
+2982,908,Portugal,18750,135,winner
+2983,909,Canada,,,unknown
+2984,909,United Kingdom,,,unknown
+2985,909,German Empire,,,unknown
+2986,910,Great Britain,13000,100,winner
+2987,910,Ireland,13000,100,winner
+2988,910,United Irishmen,16000,1200,loser
+2989,911,France,58500,756,unknown
+2990,911,Bonapartist Spain,58500,756,unknown
+2991,911,United Kingdom,85500,3675,unknown
+2992,911,Portugal,85500,3675,unknown
+2993,911,Spain,85500,3675,unknown
+2994,912,United States,17000,835,winner
+2995,912,Commonwealth of the Philippines,17000,835,winner
+2996,912,Japan,32000,14300,loser
+2997,912,Second Philippine Republic,32000,14300,loser
+2998,913,Yugoslavia,36000,1103,winner
+2999,913,"SAO Eastern Slavonia, Baranja and Western Syrmia",36000,1103,winner
+3000,913,Croatia,1800,879,loser
+3001,914,Union,77000,766,winner
+3002,914,Confederacy,33000,3202,loser
+3003,915,France,162969,36927,winner
+3004,915,Bavaria,162969,36927,winner
+3005,915,Saxony,162969,36927,winner
+3006,915,Italy,162969,36927,winner
+3007,915,Baden,162969,36927,winner
+3008,915,Hesse,162969,36927,winner
+3009,915,Austria,154500,33625,loser
+3010,916,House of Lancaster,18000,200,unknown
+3011,916,Supported by:,18000,200,unknown
+3012,916,Kingdom of Scotland,18000,200,unknown
+3013,916,House of York,9000,1600,unknown
+3014,917,Sweden,5500,1300,unknown
+3015,917,Brandenburg-Prussia,5500,1300,unknown
+3016,917,Polish–Lithuanian Commonwealth,4500,2000,unknown
+3017,917,Crimean Khanate,4500,2000,unknown
+3018,918,Russia,77000,10600,winner
+3019,918,Poland,34900,11000,loser
+3020,919,Polish Crown,,,unknown
+3021,919,Prussian Confederation,,,unknown
+3022,919,Teutonic Order,,200,unknown
+3023,920,Poland,124000,,unknown
+3024,920,Russian SFSR Supported by:,122000,,unknown
+3025,921,Germany,175000,5000,loser
+3026,921,Poland,124000,140000,winner
+3027,922,Polish Underground State,2,15200,loser
+3028,922,Home Army Polish Army in the East Supported by:,2,15200,loser
+3029,922,United Kingdom,2,15200,loser
+3030,922,United States,2,15200,loser
+3031,922,South Africa,2,15200,loser
+3032,922,Russia,2,15200,loser
+3033,922,Germany,19000,17000,winner
+3034,922,General Government,19000,17000,winner
+3035,923,United States,574,21,unknown
+3036,923,Cheyenne,150,140,unknown
+3037,924,France,50600,26500,unknown
+3038,924,United Kingdom,,17000,unknown
+3039,924,Prussia,,17000,unknown
+3040,924,Netherlands,,17000,unknown
+3041,924,Hanover,,17000,unknown
+3042,924,Nassau,,17000,unknown
+3043,924,Brunswick,,17000,unknown
+3044,925,France,45000,4000,winner
+3045,925,Austria,22400,3000,loser
+3046,925,Dutch Republic,22400,3000,loser
+3047,926,Australia,3000,349,winner
+3048,926,United States,3000,349,winner
+3049,926,Imperial Japan,4000,1200,loser
+3050,927,French Empire,32500,2500,unknown
+3051,927,Prussia,20500,2500,unknown
+3052,928,Ethiopian Empire,8000,4,unknown
+3053,928,Portuguese Empire,8000,4,unknown
+3054,928,Adal Sultanate,14000,160,unknown
+3055,928,Ottoman Empire,14000,160,unknown
+3056,929,Sweden,15100,200,unknown
+3057,929,Holy Roman Empire,16200,1000,unknown
+3058,929,Catholic League,16200,1000,unknown
+3059,930,Germany,3400,50,loser
+3060,930,Free City of Danzig,3400,50,loser
+3061,930,Poland,211,15,winner
+3062,931,Holy Roman Empire,7000,1000,unknown
+3063,931,Hesse-Cassel,3600,168,unknown
+3064,932,Holy Roman Empire,23000,650,unknown
+3065,932,Catholic League,23000,650,unknown
+3066,932,Spanish Empire,23000,650,unknown
+3067,932,Bohemian Confederation,21000,2800,unknown
+3068,932,Electoral Palatinate,21000,2800,unknown
+3069,933,Palatinate,18000,400,unknown
+3070,933,Holy Roman Empire,15000,2000,unknown
+3071,933,Catholic League,15000,2000,unknown
+3072,934,United States,118700,2246,tied
+3073,934,Confederate States,66140,1477,tied
+3074,935,Margraviate of Baden,12700,3000,unknown
+3075,935,Electoral Palatinate,12700,3000,unknown
+3076,935,Holy Roman Empire,8700,1800,unknown
+3077,935,Catholic League,8700,1800,unknown
+3078,935,Spanish Empire,8700,1800,unknown
+3079,936,Sweden,17000,3500,unknown
+3080,936,Holy Roman Empire,18000,5000,unknown
+3081,936,Saxony,18000,5000,unknown
+3082,938,Slavic tribes,,,unknown
+3083,938,Francia,,,unknown
+3084,939,Denmark–Norway,5500,1000,unknown
+3085,939,Holy Roman Empire,7500,,unknown
+3086,940,Parliamentarians,28000,700,unknown
+3087,940,Royalists Kingdom of Scotland,16000,3000,unknown
+3088,941,Electorate of Cologne,1400,1100,unknown
+3089,941,County of Guelders,1400,1100,unknown
+3090,941,County of Luxemburg,1400,1100,unknown
+3091,941,Lordship of Ligny,1400,1100,unknown
+3092,941,County of Nassau,1400,1100,unknown
+3093,941,House of Plettenberg,1400,1100,unknown
+3094,941,County of Hülchrath,1400,1100,unknown
+3095,941,Lordship of Tomburg,1400,1100,unknown
+3096,941,Duchy of Brabant,2500,,unknown
+3097,941,City of Cologne,2500,,unknown
+3098,941,County of Berg,2500,,unknown
+3099,941,County of Mark,2500,,unknown
+3100,941,County of Loon,2500,,unknown
+3101,941,County of Jülich,2500,,unknown
+3102,941,County of Tecklenburg,2500,,unknown
+3103,941,County of Waldeck,2500,,unknown
+3104,941,County of Ziegenhain,2500,,unknown
+3105,941,County of Vianden,2500,,unknown
+3106,942,United States,490,31,unknown
+3107,942,Miniconjou Lakota,120,90,unknown
+3108,942,Hunkpapa Lakota,120,90,unknown
+3109,943,Cao Wei,,,tied
+3110,943,Shu Han,60000,,tied
+3111,944,Liu Biao,,,winner
+3112,944,Sun Jian,,,loser
+3113,945,Southern Song dynasty,8000,,unknown
+3114,945,Mongol Empire,100000,,unknown
+3115,945,Yuan dynasty,100000,,unknown
+3116,946,National Revolutionary Army Central Army,24000,,unknown
+3117,946,Feng Yuxiang 's forces,40000,,unknown
+3118,947,Japan,,380,unknown
+3119,947,China,,1350,unknown
+3120,948,Empire of Japan,42000,1036,loser
+3121,948,Russian Empire,25000,593,winner
+3122,949,Rashidun Caliphate,27500,4000,unknown
+3123,949,Byzantine Empire,30000,120000,unknown
+3124,949,Ghassanid Kingdom,30000,120000,unknown
+3125,949,Tanukhids,30000,120000,unknown
+3126,950,Islamic State of Iraq and the Levant al-Nusra Front,,80,loser
+3127,950,Jaysh al-Islam,,15,winner
+3128,950,Free Syrian Army,,15,winner
+3129,950,Aknaf Bait al-Maqdis,,15,winner
+3130,951,United Kingdom,45,82,loser
+3131,951,Upper Canada,45,82,loser
+3132,951,Ojibwe,45,82,loser
+3133,951,United States,1700,55,winner
+3134,952,United States,9000,88,winner
+3135,952,France,9000,88,winner
+3136,952,Great Britain,4504,309,loser
+3137,952,Loyalists Hesse-Kassel Ansbach - Bayreuth,4504,309,loser
+3138,953,France,,,tied
+3139,953,Belgium,,,tied
+3140,953,United Kingdom,,,tied
+3141,953,Germany,5400,,tied
+3142,954,British Empire,,,unknown
+3143,954,Canada,,,unknown
+3144,954,India,,,unknown
+3145,954,United Kingdom France,,,unknown
+3146,954,Algeria,,,unknown
+3147,954,Morocco Belgium,,,unknown
+3148,954,German Empire,,35000,unknown
+3149,955,British Empire,,344307,unknown
+3150,955,United Kingdom,,344307,unknown
+3151,955,Canada,,344307,unknown
+3152,955,Australia,,344307,unknown
+3153,955,New Zealand,,344307,unknown
+3154,955,South Africa,,344307,unknown
+3155,955,India,,344307,unknown
+3156,955,Newfoundland,,344307,unknown
+3157,955,Rhodesia France Belgium,,344307,unknown
+3158,955,Germany,80,308500,unknown
+3159,956,Rome,24000,1500,unknown
+3160,956,Carthage,46000,20000,unknown
+3161,957,Katipunan,10000,450,unknown
+3162,957,Magdalo,10000,450,unknown
+3163,957,Spanish Empire,16000,441,unknown
+3164,957,Guardia Civil,16000,441,unknown
+3165,958,Habsburg Monarchy,50000,429,unknown
+3166,958,Kingdom of Hungary,50000,429,unknown
+3167,958,Serbian Militia,50000,429,unknown
+3168,958,Ottoman Empire,100000,30000,unknown
+3169,958,Crimean Tatars,100000,30000,unknown
+3170,958,Kuruc rebels,100000,30000,unknown
+3171,959,Czechoslovak Legion,3530,167,unknown
+3172,959,Russian Provisional Government,3530,167,unknown
+3173,959,Austria-Hungary German Empire,5500,3300,unknown
+3174,960,France,59000,500,loser
+3175,960,Austria,72000,730,winner
+3176,961,French Republic,35448,4000,winner
+3177,961,Russian Empire,27116,8000,loser
+3178,961,Habsburg monarchy,27116,8000,loser
+3179,962,Swedish Empire,7500,1250,unknown
+3180,962,France,7500,1250,unknown
+3181,962,Bavaria,8150,2048,unknown
+3182,962,Holy Roman Empire,8150,2048,unknown
