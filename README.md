@@ -107,17 +107,46 @@ Through SQL analytics, the project reveals:
 
 ---
 
-## 📊 Datasets Integrated
+## 📚 Data Sources & Attribution
 
-| Dataset | Source | Purpose |
-|---------|--------|---------|
-| **Battles List** | Wikipedia | Core battle metadata (name, year, conflict) |
-| **Battle Info** | Wikipedia | Detailed statistics (troops, deaths, results, locations) |
-| **GDP** | Excel (World Bank) | Economic context (1988-2022) |
-| **Political Regime** | CSV | Government type indicators |
-| **Population** | CSV | Demographic context |
-| **CPI Scores** | CSV | Corruption levels |
-| **Military Investment** | CSV | Defense spending trends (% GDP) |
+This project integrates data from multiple authoritative sources:
+
+### Battle Data
+- **Source:** Wikipedia
+- **License:** [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- **Retrieved:** 2025
+
+### GDP Data
+- **Source:** World Bank - World Development Indicators
+- **Coverage:** 1988-2022
+- **URL:** https://data.worldbank.org/
+
+### Political Regime Data
+- **Source:** V-Dem Institute via Our World in Data
+- **Coverage:** 1789-2024
+- **Citation:** V-Dem (2025) — processed by Our World in Data
+- **URL:** https://ourworldindata.org/grapher/political-regime
+- **Methodology:** Regimes of the World classification (closed autocracy, electoral autocracy, electoral democracy, liberal democracy)
+
+### Population Data
+- **Sources:** HYDE (10,000 BCE-1799), Gapminder (1800-1949), UN WPP (1950-2023) via Our World in Data
+- **Coverage:** 10,000 BCE - 2023 CE
+- **Citation:** HYDE (2023); Gapminder (2022); UN WPP (2024) — with major processing by Our World in Data
+- **URL:** https://ourworldindata.org/grapher/population
+
+### Corruption Perception Index (CPI)
+- **Source:** Transparency International
+- **Coverage:** Varies by country (typically 1995-2020)
+- **URL:** https://www.transparency.org/
+
+### Military Expenditure
+- **Source:** World Bank / Stockholm International Peace Research Institute (SIPRI)
+- **Indicator:** Military expenditure (% of GDP)
+- **URL:** https://data.worldbank.org/
+
+**When using this project or its data, please cite all original sources appropriately.**
+
+Full data source documentation and citations available in [DATABASE_SCHEMA.md](DATABASE_SCHEMA.md).
 
 ---
 
@@ -247,7 +276,7 @@ Luís Sousa — [LinkedIn](https://www.linkedin.com/in/luis-ma-sousa31) | [GitHu
 
 ---
 
-## 🔗 Related Projects
+## 🔗 Non-related Projects
 
 - **[DeepWalk](https://github.com/luismasousa/DeepWalk)** — ML classification of Parkinson's motor deficits using gait data
 - **[BehaviourInSight](https://github.com/luismasousa/BehaviourInSight)** — Automated analysis of rodent behavioral tests
